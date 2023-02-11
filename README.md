@@ -10,6 +10,8 @@
 
 - ⚡️ Fun fact -> I love coding and iam a quick learner.
 
+- ✍️ Visit my Portfolio for more info -> https://developer-maroof.netlify.app/
+
 ## 🤖 Technologies I Know
 
 - HTML
