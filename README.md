@@ -1,6 +1,6 @@
 # Hi 👋, I'm Maroof Qureshi
 
-## I'm a passionate Full Stack Developer from Pakistan
+## I'm a passionate Frontend Web Developer and Ui/Ux Developer from Pakistan
 
 ## 🙋‍♂️ About Me
 
