@@ -15,8 +15,8 @@
 - HTML
 - CSS
 - JAVASCRIPT
-- React
-- Styling (Tailwind CSS , Bootstrap , Sass)
+- React JS
+- Styling (Tailwind CSS, CSS , Bootstrap , Sass)
 - Project Management (Git , Github)
 - Design (Canva)
 - Deployment (Netlify)
