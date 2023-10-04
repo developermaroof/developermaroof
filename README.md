@@ -2,15 +2,20 @@
 
 # Hi 👋, I'm Maroof Qureshi
 
-## I'm passionate | Frontend Developer and Ui/Ux Developer | from Pakistan
+## I'm a passionate | Frontend Developer and Ui/Ux Developer | from Pakistan
 
-## 🙋‍♂️ About Me
+A seasoned professional in web technologies and UI/UX development, my extensive experience and knowledge ensure the consistent delivery of exceptional results, setting a high standard for quality and innovation in every project I undertake.
 
-- 🏛️ Iam currently doing BS in Criminology
+Web developer, with extensive knowledge and years of experience, working on web technologies and UI/UX design, delivering quality work.
 
-- 📫 How to reach me -> developermaroof@gmail.com
+## Bachelor of Science in Criminology
+University of Sindh | 2021-2024
 
-- ✍️ Visit my Portfolio for more info -> https://developermaroof.netlify.app/
+## Web Development Self-Study
+Self-Paced Online Learning
+
+- Successfully Completed 50+ Projects
+- Continuously expanding skill set through Self-Study and keeping up-to-date with the latest Web Development Trends
 
 ## 🤖 Technologies I Know
 
@@ -18,7 +23,8 @@
 - CSS
 - JAVASCRIPT
 - React JS
-- Styling (Tailwind CSS, CSS , Bootstrap , Sass)
-- Project Management (Git , Github)
+- API Integration
+- Styling (Tailwind CSS, CSS, Bootstrap, Sass)
+- Project Management (Git, Github)
 - Design (Canva)
 - Deployment (Netlify)
