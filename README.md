@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Maroof Qureshi
 
-## I'm a passionate | Frontend Developer and Ui/Ux Developer | from Pakistan
+## I'm a passionate | Web Developer | from Pakistan
 
 A seasoned professional in web technologies and UI/UX development, my extensive experience and knowledge ensure the consistent delivery of exceptional results, setting a high standard for quality and innovation in every project I undertake.
 
@@ -23,8 +23,9 @@ Self-Paced Online Learning
 - CSS
 - JAVASCRIPT
 - React JS
+- Firebase
 - API Integration
-- Styling (Tailwind CSS, CSS, Bootstrap, Sass)
+- Styling (Tailwind CSS, CSS, Bootstrap, Scss/Sass)
 - Project Management (Git, Github)
 - Design (Canva)
 - Deployment (Netlify)
