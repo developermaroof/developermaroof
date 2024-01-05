@@ -14,7 +14,7 @@ University of Sindh | 2021-2024
 ## Web Development Self-Study
 Self-Paced Online Learning
 
-- Successfully Completed 50+ Projects
+- Successfully Completed 60+ Projects
 - Continuously expanding skill set through Self-Study and keeping up-to-date with the latest Web Development Trends
 
 ## 🤖 Technologies I Know
