@@ -1,4 +1,4 @@
-![DEVELOPER MAROOF](https://github.com/developermaroof/developermaroof/assets/123865444/d34177e3-dce4-4e5e-94c5-af0ce960775c)
+![DEVELOPER MAROOF](https://github.com/developermaroof/developermaroof/file:///C:/Users/CITY%20COMPUTER%20HYD/Downloads/Linkedin%20Banner.png)
 
 # Hi 👋, I'm Maroof Qureshi
 
