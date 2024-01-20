@@ -1,4 +1,4 @@
-![DEVELOPER MAROOF](https://github.com/developermaroof/developermaroof/assets/123865444/d34177e3-dce4-4e5e-94c5-af0ce960775c)
+![Devloper Maroof](./Linkedin%20Banner.png)
 
 # Hi 👋, I'm Maroof Qureshi
 
@@ -9,9 +9,11 @@ A seasoned professional in web technologies and UI/UX development, my extensive 
 Web developer, with extensive knowledge and years of experience, working on web technologies and UI/UX design, delivering quality work.
 
 ## Bachelor of Science in Criminology
+
 University of Sindh | 2021-2024
 
 ## Web Development Self-Study
+
 Self-Paced Online Learning
 
 - Successfully Completed 60+ Projects
