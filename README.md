@@ -1,4 +1,4 @@
-![Devloper Maroof](./Linkedin%20Banner.png)
+![Devloper Maroof](./developer.png)
 
 # Hi 👋, I'm Maroof Qureshi
 
