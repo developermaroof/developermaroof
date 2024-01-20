@@ -26,6 +26,7 @@ Self-Paced Online Learning
 - JAVASCRIPT
 - React JS
 - Firebase
+- Redux
 - API Integration
 - Styling (Tailwind CSS, CSS, Bootstrap, Scss/Sass)
 - Project Management (Git, Github)
