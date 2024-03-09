@@ -17,7 +17,7 @@ University of Sindh | 2021-2024
 
 ## 💼 Working Experience
 
-### (Devnito)####📍 Dubai,United Arab Emirates
+### (Devnito)📍 Dubai,United Arab Emirates
 
 - (Frontend Developer)
 
