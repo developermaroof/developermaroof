@@ -17,14 +17,15 @@ University of Sindh | 2021-2024
 
 ## 💼 Working Experience
 
-### Frontend Developer at Devnito 📍 Dubai, United Arab Emirates
+- Frontend Developer Intern at Devnito | Dubai, United Arab Emirates | 2024
+- Freelancing | Remote | 2022-2024
 
 ## 🤖 Technologies I Know
 
 - HTML
 - CSS
 - JavaScript
-- React JS
+- React
 - Firebase
 - Redux
 - TypeScript
