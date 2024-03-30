@@ -18,7 +18,8 @@ University of Sindh | 2021-2024
 ## 💼 Working Experience
 
 - Frontend Developer Intern at Devnito | Dubai, United Arab Emirates | 2024
-- Freelancing | Remote | 2022-2024
+- Web Developer Intern at Skill Genie | Banglore, India | 2024
+- Freelancing | 2022-2024
 
 ## 🤖 Technologies I Know
 
