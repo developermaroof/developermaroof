@@ -5,10 +5,6 @@
 
 <img align='right' alt='coding' width='400' src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developermaroof" alt="developermaroof" /></a> </p>
-
 - 💼 I’m currently working with **Devnito | Dubai, United Arab Emirates**
 
 - 💼 I’m currently working with **Fondi Inc | Tokyo, Japan**
@@ -45,3 +41,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermaroof&show_icons=true&locale=en" alt="developermaroof" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermaroof&" alt="developermaroof" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developermaroof" alt="developermaroof" /></a> </p>
