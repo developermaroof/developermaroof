@@ -4,7 +4,6 @@
 <h3 align="center">I am a Passionate Frontend Developer and Ui/Ux Expert</h3>
   <br><br>
  <img align='right' alt='coding' width='400' src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
-<br>
 
 A seasoned professional in web technologies and UI/UX development, my extensive experience and knowledge ensure the consistent delivery of exceptional results, setting a high standard for quality and innovation in every project I undertake.
 
