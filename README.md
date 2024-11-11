@@ -1,30 +1,35 @@
 ![Devloper Maroof](./banner.png)
 
 <h1 align="center">Hi 👋, I'm Maroof Qureshi</h1>
-<h3 align="center">I am a Passionate Frontend Developer and Ui/Ux Expert</h3>
-  <br><br>
- <img align='right' alt='coding' width='400' src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
 
-A seasoned professional in web technologies and UI/UX development, my extensive experience and knowledge ensure the consistent delivery of exceptional results, setting a high standard for quality and innovation in every project I undertake.
+<h3 align="center">I am a Passionate Frontend and Ui/Ux Developer</h3>
 
-Web developer, with extensive knowledge and years of experience, working in web technologies and UI/UX Design, delivering quality work.
+<br><br>
 
-- **Successfully Completed 70+ Projects**
-- **Continuously expanding my skill set through Self-Study**
+<h3>𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:</h3>
 
-  <br><br>
+<br>
 
-- 💼**Frontend Developer Intern** at **Devnito** | Dubai, United Arab Emirates | Feb - Present 2024
+I am Maroof Qureshi, a skilled Frontend Web Developer with over three years of experience and a portfolio of 75+ successful projects. Known for delivering user-centric and performance-optimized applications, my work spans various industries and international teams, showcasing my versatility and dedication to quality.
 
-- 💼**Certified Web Developer Intern** at **IIT Pakistan**| Hyderabad, Pakistan | Apr - Jun 2024
+<br><br>
 
-- 💼**Web Developer Intern** at **Skill Genie** | Banglore, India | Mar - May 2024
+<h3>𝐖𝐨𝐫𝐤 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:</h3>
 
-- 💼**Certified Web Developer Intern** at **Tech-A-Intern** | Noida, Uttar Pradesh, India | Mar - Apr 2024
+<br>
 
-- 💼**Certified Community Onboarding Service** at **Fondi Inc** | Japan, Tokyo | Jul - Aug 2024
+- 💼 **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**
+  Devnito | Dubai, United Arab Emirates | Feb 2024 - Present
 
-- 💼**Certified Sales Skills Service** at **Fondi Inc** | Japan, Tokyo | Aug - Present 2024
+- 💼 **Certified Web Developer Intern** at **IIT Pakistan**| Hyderabad, Pakistan | Apr - Jun 2024
+
+- 💼 **Web Developer Intern** at **Skill Genie** | Banglore, India | Mar - May 2024
+
+- 💼 **Certified Web Developer Intern** at **Tech-A-Intern** | Noida, Uttar Pradesh, India | Mar - Apr 2024
+
+- 💼 **Certified Community Onboarding Service** at **Fondi Inc** | Japan, Tokyo | Jul - Aug 2024
+
+- 💼 **Certified Sales Skills Service** at **Fondi Inc** | Japan, Tokyo | Aug - Present 2024
 
 - 👨‍💻 My Portfolio [https://developermaroof.netlify.app/](https://developermaroof.netlify.app/)
 
@@ -45,3 +50,5 @@ Web developer, with extensive knowledge and years of experience, working in web 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact" alt="developermaroof" /></p>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" /> </p>
+
+<!-- <img align='right' alt='coding' width='400' src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'> -->
