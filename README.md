@@ -34,7 +34,7 @@ I am Maroof Qureshi, a skilled Frontend Web Developer with over three years of e
 
   <br><br>
 
-  <h3>𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
+<h3>𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
 
 <br>
 
@@ -55,7 +55,7 @@ I am Maroof Qureshi, a skilled Frontend Web Developer with over three years of e
 
 <br><br>
 
-  <h3>𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
+<h3>𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞:</h3>
 
 <br>
 
