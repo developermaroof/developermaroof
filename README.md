@@ -80,9 +80,35 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="./skills/html.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="./skills/html.svg" alt="html" width="40" height="40"/> 
   </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="./skills/css.svg" alt="css" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+    <img src="./skills/javascript.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="./skills/php.svg" alt="php" width="40" height="40"/> 
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="./skills/react.svg" alt="react" width="40" height="40"/> 
+  </a>
+
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="./skills/redux.svg" alt="redux" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="./skills/typescript.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="./skills/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
