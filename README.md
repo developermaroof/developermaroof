@@ -126,7 +126,7 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="./skills/git.svg" alt="git" width="40" height="40"/> 
+    <img src="./skills/github.png" alt="git" width="40" height="40"/> 
   </a>
 
 </p>
