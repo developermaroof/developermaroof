@@ -1,4 +1,4 @@
-![Devloper Maroof](./banner.png)
+![Devloper Maroof](/banner.png)
 
 <br>
 
@@ -82,51 +82,51 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 <p align="left">
 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="./skills/html.svg" alt="html" width="40" height="40"/> 
+    <img src="/skills/html.svg" alt="html" width="40" height="40"/> 
   </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="./skills/css.svg" alt="css" width="40" height="40"/> 
+    <img src="/skills/css.svg" alt="css" width="40" height="40"/> 
   </a>
 
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="./skills/javascript.svg" alt="javascript" width="40" height="40"/> 
+    <img src="/skills/javascript.svg" alt="javascript" width="40" height="40"/> 
   </a>
 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="./skills/php.svg" alt="php" width="40" height="40"/> 
+    <img src="/skills/php.svg" alt="php" width="40" height="40"/> 
   </a>
 
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="./skills/react.svg" alt="react" width="40" height="40"/> 
+    <img src="/skills/react.svg" alt="react" width="40" height="40"/> 
   </a>
 
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="./skills/redux.svg" alt="redux" width="40" height="40"/> 
+    <img src="/skills/redux.svg" alt="redux" width="40" height="40"/> 
   </a>
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="./skills/typescript.svg" alt="typescript" width="40" height="40"/> 
+    <img src="/skills/typescript.svg" alt="typescript" width="40" height="40"/> 
   </a>
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="./skills/firebase.png" alt="firebase" width="40" height="40"/> 
+    <img src="/skills/firebase.png" alt="firebase" width="40" height="40"/> 
   </a>
 
   <a href="https://tailwindui.com/" target="_blank" rel="noreferrer">
-    <img src="./skills/tailwind.svg" alt="tailwindcss" width="40" height="40"/> 
+    <img src="/skills/tailwind.svg" alt="tailwindcss" width="40" height="40"/> 
   </a>
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="./skills/sass.svg" alt="sass/scss" width="40" height="40"/> 
+    <img src="/skills/sass.svg" alt="sass/scss" width="40" height="40"/> 
   </a>
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="./skills/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="/skills/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="./skills/git.svg" alt="git" width="40" height="40"/> 
+    <img src="/skills/git.svg" alt="git" width="40" height="40"/> 
   </a>
 
 </p>
@@ -134,19 +134,27 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 <p>
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="./skills/github.png" alt="github" width="40" height="40"/> 
+    <img src="/skills/github.png" alt="github" width="40" height="40"/> 
   </a>
 
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="./skills/jest.svg" alt="jest" width="40" height="40"/> 
+    <img src="/skills/jest.svg" alt="jest" width="40" height="40"/> 
   </a>
 
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="./skills/rtl.png" alt="react-testing-library" width="40" height="40"/> 
+    <img src="/skills/rtl.png" alt="react-testing-library" width="40" height="40"/> 
   </a>
 
-  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="react-testing-library" width="40" height="40"/> 
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="cypress" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="/skills/netlify.webp" alt="netkify" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="/skills//canva.jpeg" alt="canva" width="40" height="40"/> 
   </a>
 
 </p>
