@@ -81,7 +81,7 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6DmRZjjHYVYod4M4r5gzbcwJ7JiG-GLN2A&s" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRNsRTVdY9cOulCv7Njkzba2dqLAY6ICb5sQ&s" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
