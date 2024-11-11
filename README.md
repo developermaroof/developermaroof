@@ -150,7 +150,7 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
   </a>
 
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/netlify.png" alt="netkify" width="40" height="40"/> 
+    <img src="/skills/netlify.png" alt="netkify" width="60" height="40"/> 
   </a>
 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
