@@ -109,8 +109,28 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
     <img src="./skills/typescript.svg" alt="typescript" width="40" height="40"/> 
   </a>
 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="./skills/firebase.png" alt="firebase" width="40" height="40"/> 
+  </a>
+
+  <a href="https://tailwindui.com/" target="_blank" rel="noreferrer">
+    <img src="./skills/tailwind.svg" alt="tailwindcss" width="40" height="40"/> 
+  </a>
+
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="./skills/sass.svg" alt="sass/scss" width="40" height="40"/> 
+  </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="./skills/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="./skills/git.svg" alt="git" width="40" height="40"/> 
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="./skills/github.svg" alt="github" width="40" height="40"/> 
   </a>
 
 </p>
