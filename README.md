@@ -38,19 +38,19 @@ I am Maroof Qureshi, a skilled Frontend Web Developer with over three years of e
 
 <br>
 
-- ⚙️ **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬:**
+- </> **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬:**
   HTML, CSS, JavaScript, PHP (frontend), React.js, Redux, TypeScript
 
-- ⚙️ **𝐓𝐨𝐨𝐥𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:**
+- </> **𝐓𝐨𝐨𝐥𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:**
   Firebase, Tailwind CSS, Sass/SCSS, Bootstrap, Git, GitHub
 
-- ⚙️ **𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐒𝐤𝐢𝐥𝐥𝐬:**
+- </> **𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐒𝐤𝐢𝐥𝐥𝐬:**
   API integration, CSS animations, JSX syntax, performance optimization, debugging
 
-- ⚙️ **𝐓𝐞𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠:**
+- </> **𝐓𝐞𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠:**
   Jest, React Testing Library (RTL), Cypress, Snapshot Testing, React Dev Tools
 
-- ⚙️ **𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 & 𝐃𝐞𝐬𝐢𝐠𝐧:**
+- </> **𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 & 𝐃𝐞𝐬𝐢𝐠𝐧:**
   Netlify, Canva
 
 <br><br>
@@ -69,6 +69,8 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 
 - ⚡ Fun fact **I Love Coding**
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/developermaroof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developermaroof" height="30" width="40" /></a>
@@ -82,7 +84,3 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact" alt="developermaroof" /></p>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" /> </p>
-
-<br><br>
-
-<img align='center' alt='coding' width='400' src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
