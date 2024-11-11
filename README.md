@@ -1,10 +1,6 @@
 ![Devloper Maroof](./banner.png)
 
-<h1 align="center">Hi 👋, I'm Maroof Qureshi</h1>
-
-<h3 align="center">I am a Passionate Frontend and Ui/Ux Developer</h3>
-
-<br><br>
+<br>
 
 <h3>𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:</h3>
 
