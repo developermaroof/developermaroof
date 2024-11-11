@@ -63,10 +63,6 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 
 <br><br>
 
-<img align='right' alt='coding' width='400' src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
-
-<br><br>
-
 - 👨‍💻 My Portfolio [https://developermaroof.netlify.app/](https://developermaroof.netlify.app/)
 
 - 📫 How to reach me **developermaroof@gmail.com**
@@ -87,4 +83,6 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" /> </p>
 
-<img align='right' alt='coding' width='400' src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
+<br><br>
+
+<img align='center' alt='coding' width='400' src='https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif'>
