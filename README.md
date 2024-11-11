@@ -133,7 +133,7 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
 
 <p>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="./skills/github.svg" alt="github" width="40" height="40"/> 
+    <img src="./skills/git.svg" alt="github" width="40" height="40"/> 
   </a>
 </p>
   <br><br>
