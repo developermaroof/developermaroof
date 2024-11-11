@@ -21,15 +21,51 @@ I am Maroof Qureshi, a skilled Frontend Web Developer with over three years of e
 - 💼 **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**
   Devnito | Dubai, United Arab Emirates | Feb 2024 - Present
 
-- 💼 **Certified Web Developer Intern** at **IIT Pakistan**| Hyderabad, Pakistan | Apr - Jun 2024
+- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**
+  IIT Pakistan | Hyderabad, Pakistan | Apr - Jun 2024
 
-- 💼 **Web Developer Intern** at **Skill Genie** | Banglore, India | Mar - May 2024
+- 💼 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**
+  Skill Genie | Bangalore, India | Mar - May 2024
 
-- 💼 **Certified Web Developer Intern** at **Tech-A-Intern** | Noida, Uttar Pradesh, India | Mar - Apr 2024
+- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**
+  Tech-A-Intern | Noida, Uttar Pradesh, India | Mar - Apr 2024
 
-- 💼 **Certified Community Onboarding Service** at **Fondi Inc** | Japan, Tokyo | Jul - Aug 2024
+- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐎𝐧𝐛𝐨𝐚𝐫𝐝𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞**
+  Fondi Inc | Tokyo, Japan | Jul - Aug 2024
 
-- 💼 **Certified Sales Skills Service** at **Fondi Inc** | Japan, Tokyo | Aug - Present 2024
+- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐒𝐚𝐥𝐞𝐬 𝐒𝐤𝐢𝐥𝐥𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐞**
+  Fondi Inc | Tokyo, Japan | Aug - Oct 2024
+
+  <br><br>
+
+  <h3>𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
+
+<br>
+
+- ⚙️ **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬:**
+  HTML, CSS, JavaScript, PHP (frontend), React.js, Redux, TypeScript
+
+- ⚙️ **𝐓𝐨𝐨𝐥𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:**
+  Firebase, Tailwind CSS, Sass/SCSS, Bootstrap, Git, GitHub
+
+- ⚙️ **𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐒𝐤𝐢𝐥𝐥𝐬:**
+  API integration, CSS animations, JSX syntax, performance optimization, debugging
+
+- ⚙️ **𝐓𝐞𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠:**
+  Jest, React Testing Library (RTL), Cypress, Snapshot Testing, React Dev Tools
+
+- ⚙️ **𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 & 𝐃𝐞𝐬𝐢𝐠𝐧:**
+  Netlify, Canva
+
+<br><br>
+
+  <h3>𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
+
+<br>
+
+Beyond my technical skills, I have also developed a strong foundation in sales and communication through my certified roles in community onboarding and sales services at Fondi Inc. These experiences have helped me connect with diverse teams and clients. I’m committed to professional growth, always expanding my skill set to stay current with industry trends and innovations.
+
+<br><br>
 
 - 👨‍💻 My Portfolio [https://developermaroof.netlify.app/](https://developermaroof.netlify.app/)
 
