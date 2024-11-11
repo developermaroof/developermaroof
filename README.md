@@ -129,10 +129,12 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
     <img src="./skills/git.svg" alt="git" width="40" height="40"/> 
   </a>
 
+</p>
+
+<p>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="./skills/github.svg" alt="github" width="40" height="40"/> 
   </a>
-
 </p>
   <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact" alt="developermaroof" /></p>
