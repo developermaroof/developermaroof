@@ -137,8 +137,16 @@ Beyond my technical skills, I have also developed a strong foundation in sales a
     <img src="./skills/github.png" alt="github" width="40" height="40"/> 
   </a>
 
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="./skills/jest.svg" alt="jest" width="40" height="40"/> 
+  </a>
+
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
+    <img src="./skills/rtl.png" alt="react-testing-library" width="40" height="40"/> 
+  </a>
+
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="react-testing-library" width="40" height="40"/> 
   </a>
 
 </p>
