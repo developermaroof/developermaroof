@@ -104,7 +104,7 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
   </a>
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="/skills/nextjs.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="/skills/nextjs.png" alt="nextjs" width="40" height="40"/> 
   </a>
 
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
@@ -120,11 +120,11 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
   </a>
 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="/skills/nodejs.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="/skills/nodejs.png" alt="nodejs" width="40" height="40"/> 
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/mongodb.svg" alt="mongodb" width="40" height="40"/> 
+    <img src="/skills/mongodb.png" alt="mongodb" width="40" height="40"/> 
   </a>
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -172,7 +172,7 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
   </a>
 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/vercel.svg" alt="vercel" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo-thumbnail.png" alt="vercel" width="40" height="40"/> 
   </a>
 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
