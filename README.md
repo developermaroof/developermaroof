@@ -92,59 +92,59 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
 <p align="left">
 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> 
+    <img src="/skills/html.svg" alt="html" width="40" height="40"/> 
   </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
+    <img src="/skills/css.svg" alt="css" width="40" height="40"/> 
   </a>
 
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="/skills/javascript.svg" alt="javascript" width="40" height="40"/> 
   </a>
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="/skills/nextjs.svg" alt="nextjs" width="40" height="40"/> 
   </a>
 
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+    <img src="/skills/react.svg" alt="react" width="40" height="40"/> 
   </a>
 
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    <img src="/skills/redux.svg" alt="redux" width="40" height="40"/> 
   </a>
 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    <img src="/skills/typescript.svg" alt="typescript" width="40" height="40"/> 
   </a>
 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="/skills/nodejs.svg" alt="nodejs" width="40" height="40"/> 
   </a>
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+    <img src="/skills/mongodb.svg" alt="mongodb" width="40" height="40"/> 
   </a>
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    <img src="/skills/firebase.png" alt="firebase" width="40" height="40"/> 
   </a>
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40"/> 
+  <a href="https://tailwindui.com/" target="_blank" rel="noreferrer">
+    <img src="/skills/tailwind.svg" alt="tailwindcss" width="40" height="40"/> 
   </a>
 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass/scss" width="40" height="40"/> 
+    <img src="/skills/sass.svg" alt="sass/scss" width="40" height="40"/> 
   </a>
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="/skills/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    <img src="/skills/git.svg" alt="git" width="40" height="40"/> 
   </a>
 
 </p>
@@ -152,31 +152,31 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
 <p>
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> 
+    <img src="/skills/github.png" alt="github" width="40" height="40"/> 
   </a>
 
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> 
+    <img src="/skills/jest.svg" alt="jest" width="40" height="40"/> 
   </a>
 
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/media/logo.svg" alt="react-testing-library" width="40" height="40"/> 
+    <img src="/skills/rtl.png" alt="react-testing-library" width="40" height="40"/> 
   </a>
 
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Cypress_logo.png" alt="cypress" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="cypress" width="40" height="40"/> 
   </a>
 
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.netlify.com/v3/img/components/netlify-color-logo.svg" alt="netlify" width="80" height="40"/> 
+    <img src="/skills/netlify.png" alt="netlify" width="80" height="40"/> 
   </a>
 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> 
+    <img src="/skills/vercel.svg" alt="vercel" width="40" height="40"/> 
   </a>
 
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Canva_Logo.png" alt="canva" width="40" height="40"/> 
+    <img src="/skills/canva.svg" alt="canva" width="40" height="40"/> 
   </a>
 
 </p>
