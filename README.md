@@ -182,6 +182,25 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
 </p>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact" alt="developermaroof" /></p>
+<!-- GitHub Trophies -->
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=developermaroof" alt="trophies" />
+  </a>
+</p>
+
+<!-- GitHub Stats Card -->
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developermaroof&show_icons=true&theme=radical" alt="developermaroof" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact" alt="developermaroof" />
+</p>
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" />
+</p>
