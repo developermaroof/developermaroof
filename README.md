@@ -6,7 +6,7 @@
 
 <br>
 
-I am Maroof Qureshi, a Fullstack Web Developer with over three years of experience and a portfolio of 75+ successful projects. Specializing in end-to-end web solutions, I combine modern frontend expertise with robust backend proficiency in Next.js, RESTful API development, and MongoDB integration. My work spans diverse industries and international teams, showcasing my versatility and commitment to technical excellence.
+I am Maroof Qureshi, a Fullstack Web Developer with a portfolio of 75+ successful projects. Specializing in end-to-end web solutions, I combine modern frontend expertise with robust backend proficiency in Next.js, RESTful API development, and MongoDB integration. My work spans diverse industries and international teams, showcasing my versatility and commitment to technical excellence.
 
 <br><br>
 
@@ -14,10 +14,10 @@ I am Maroof Qureshi, a Fullstack Web Developer with over three years of experien
 
 <br>
 
-- 💼 **𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
+- 💼 **𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**  
   Devnito | Dubai, United Arab Emirates | Feb 2025 - Present
 
-- 💼 **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
+- 💼 **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**  
   Devnito | Dubai, United Arab Emirates | Feb 2024 - Feb 2025
 
 - 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**  
