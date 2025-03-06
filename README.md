@@ -45,7 +45,7 @@ I am Maroof Qureshi, a Fullstack Web Developer with a portfolio of 75+ successfu
   HTML, CSS, JavaScript, Next.js, React.js, Redux, TypeScript, Node.js
 
 - </> **𝐁𝐚𝐜𝐤𝐞𝐧𝐝 & 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝘀:**  
-  RESTful API Development, MongoDB, Express.js
+  RESTful API Development, MongoDB, Express.Js
 
 - </> **𝐓𝐨𝐨𝐥𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:**  
   Firebase, Tailwind CSS, Sass/SCSS, Bootstrap, Git, GitHub, Cloudinary, Material UI
