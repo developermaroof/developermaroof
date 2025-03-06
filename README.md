@@ -6,7 +6,7 @@
 
 <br>
 
-I am Maroof Qureshi, a Fullstack Web Developer with a portfolio of 75+ successful projects. Specializing in end-to-end web solutions, I combine modern frontend expertise with robust backend proficiency in Next.js, RESTful API development, and MongoDB integration. My work spans diverse industries and international teams, showcasing my versatility and commitment to technical excellence.
+I am Maroof Qureshi, a Fullstack Web Developer with a portfolio of 75+ successful projects. Specializing in end-to-end web solutions, I combine expertise in frontend development with newly acquired backend proficiency in Next.js, RESTful API development, and MongoDB integration. Known for delivering user-centric, performance-optimized applications, my work spans diverse industries and international teams, showcasing my versatility and commitment to bridging technical excellence with business needs.
 
 <br><br>
 
@@ -14,19 +14,19 @@ I am Maroof Qureshi, a Fullstack Web Developer with a portfolio of 75+ successfu
 
 <br>
 
-- 💼 **𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**  
+- 💼 **𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
   Devnito | Dubai, United Arab Emirates | Feb 2025 - Present
 
-- 💼 **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**  
+- 💼 **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
   Devnito | Dubai, United Arab Emirates | Feb 2024 - Feb 2025
 
-- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**  
+- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
   IIT Pakistan | Hyderabad, Pakistan | Apr - Jun 2024
 
-- 💼 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**  
+- 💼 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
   Skill Genie | Bangalore, India | Mar - May 2024
 
-- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧**  
+- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
   Tech-A-Intern | Noida, Uttar Pradesh, India | Mar - Apr 2024
 
 - 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐎𝐧𝐛𝐨𝐚𝐫𝐝𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞**  
@@ -45,10 +45,10 @@ I am Maroof Qureshi, a Fullstack Web Developer with a portfolio of 75+ successfu
   HTML, CSS, JavaScript, Next.js, React.js, Redux, TypeScript, Node.js
 
 - </> **𝐁𝐚𝐜𝐤𝐞𝐧𝐝 & 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝘀:**  
-  RESTful API Development, MongoDB
+  RESTful API Development, MongoDB, Express.js
 
 - </> **𝐓𝐨𝐨𝐥𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:**  
-  Firebase, Tailwind CSS, Sass/SCSS, Bootstrap, Git, GitHub
+  Firebase, Tailwind CSS, Sass/SCSS, Bootstrap, Git, GitHub, Cloudinary, Material UI
 
 - </> **𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐒𝐤𝐢𝐥𝐥𝐬:**  
   Fullstack Integration, API Design, CSS Animations, Performance Optimization, Debugging
