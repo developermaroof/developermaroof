@@ -147,6 +147,10 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
     <img src="/skills/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 
+</p>
+
+<p>
+
    <a href="https://console.cloudinary.com/console/c-949b1e1f76346175b9d66e0cde23d0/media_library/homepage" target="_blank" rel="noreferrer">
     <img src="/skills/cloudinary.svg" alt="cloudinary" width="40" height="40"/> 
   </a>
@@ -158,11 +162,7 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="/skills/git.svg" alt="git" width="40" height="40"/> 
   </a>
-
-</p>
-
-<p>
-
+  
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="/skills/github.png" alt="github" width="40" height="40"/> 
   </a>
