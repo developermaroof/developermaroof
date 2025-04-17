@@ -69,7 +69,7 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
 
 <br><br>
 
-- 👨‍💻 My Portfolio [https://developermaroof.netlify.app/](https://developermaroof.netlify.app/)
+- 👨‍💻 My Portfolio [https://developermaroof.vercel.app/](https://developermaroof.vercel.app/)
 - 📫 How to reach me **developermaroof@gmail.com**
 - ⚡ Fun fact **I Love Coding**
 
@@ -123,6 +123,10 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
     <img src="/skills/nodejs.png" alt="nodejs" width="40" height="40"/> 
   </a>
 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="/skills/express.svg" alt="express" width="40" height="40"/> 
+  </a>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="/skills/mongodb.png" alt="mongodb" width="40" height="40"/> 
   </a>
@@ -141,6 +145,14 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="/skills/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+
+   <a href="https://console.cloudinary.com/console/c-949b1e1f76346175b9d66e0cde23d0/media_library/homepage" target="_blank" rel="noreferrer">
+    <img src="/skills/cloudinary.svg" alt="cloudinary" width="40" height="40"/> 
+  </a>
+
+  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
+    <img src="/skills/materialui.svg" alt="materialui" width="40" height="40"/> 
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
