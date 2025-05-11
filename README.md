@@ -209,7 +209,6 @@ const devOpsSkills = [
 - 🌐 Check out my portfolio: [developermaroof.vercel.app](https://developermaroof.vercel.app/)
 - 📧 Email me: **developermaroof@gmail.com**
 - 📱 Call or WhatsApp: **+923153048864**
-- ⚡ Fun fact: **I Love Coding**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Let's+connect+and+collaborate!&center=true&width=380&height=45" alt="Thank You" />
