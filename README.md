@@ -145,7 +145,7 @@ const devOpsSkills = [
   <img src="/skills/github.png" alt="GitHub" width="40" height="40" title="GitHub" />&nbsp;
   <img src="/skills/cloudinary.svg" alt="Cloudinary" width="40" height="40" title="Cloudinary" />&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="Sanity.io" width="40" height="40" title="Sanity.io" />&nbsp;
-  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/hygraph-9254917-7560812.png?f=webp" alt="Hygraph" width="40" height="40" title="Hygraph (GraphCMS)" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhqkskMPw6NFvikWOuKvp-zZ8aaCUq2i1Xg&s" alt="Hygraph" width="40" height="40" title="Hygraph (GraphCMS)" />&nbsp;
   <img src="https://imagekit.io/static/img/imagekit-logo-white.svg" alt="ImageKit" width="40" height="40" title="ImageKit" />&nbsp;
   
   <!-- Testing -->
