@@ -66,6 +66,7 @@ const coreSkills = [
   "Node.js",
   "REST APIs",
   "GraphQL",
+  "Express.js",
 ];
 ```
 
@@ -77,6 +78,7 @@ const databaseSkills = [
   "Firebase",
   "Hygraph (GraphCMS)",
   "Sanity.io",
+  "Headless CMS Integration",
 ];
 ```
 
@@ -92,6 +94,7 @@ const uiSkills = [
   "ImageKit",
   "Cloudinary",
   "CSS animations",
+  "Responsive Design",
 ];
 ```
 
@@ -128,17 +131,22 @@ const devOpsSkills = [
   <img src="/skills/express.svg" alt="Express" width="40" height="40" title="Express.js" />&nbsp;
   <img src="/skills/mongodb.png" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
   <img src="/skills/firebase.png" alt="Firebase" width="40" height="40" title="Firebase" />&nbsp;
+  <img src="https://graphql.org/img/logo.svg" alt="GraphQL" width="40" height="40" title="GraphQL" />&nbsp;
   
-  <!-- Styling -->
+  <!-- Styling & Animation -->
   <img src="/skills/tailwind.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />&nbsp;
   <img src="/skills/sass.svg" alt="Sass" width="40" height="40" title="Sass/SCSS" />&nbsp;
   <img src="/skills/bootstrap.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />&nbsp;
   <img src="/skills/materialui.svg" alt="Material UI" width="40" height="40" title="Material UI" />&nbsp;
+  <img src="https://camo.githubusercontent.com/2ba6968e509f3b105c56d6b7eaa91010b2f7dcf051e396238f11abfd7e513964/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51474b30634e6b4d6d4b4c45456876412e706e67" alt="Framer Motion" width="40" height="40" title="Framer Motion" />&nbsp;
   
   <!-- Tools -->
   <img src="/skills/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
   <img src="/skills/github.png" alt="GitHub" width="40" height="40" title="GitHub" />&nbsp;
   <img src="/skills/cloudinary.svg" alt="Cloudinary" width="40" height="40" title="Cloudinary" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="Sanity.io" width="40" height="40" title="Sanity.io" />&nbsp;
+  <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/hygraph-9254917-7560812.png?f=webp" alt="Hygraph" width="40" height="40" title="Hygraph (GraphCMS)" />&nbsp;
+  <img src="https://imagekit.io/static/img/imagekit-logo-white.svg" alt="ImageKit" width="40" height="40" title="ImageKit" />&nbsp;
   
   <!-- Testing -->
   <img src="/skills/jest.svg" alt="Jest" width="40" height="40" title="Jest" />&nbsp;
@@ -186,6 +194,12 @@ const devOpsSkills = [
   <a href="mailto:developermaroof@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://wa.me/923153048864" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="tel:+923153048864" target="_blank">
+    <img src="https://img.shields.io/badge/Call-%2B923153048864-008000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  </a>
 </div>
 
 <br>
@@ -194,6 +208,7 @@ const devOpsSkills = [
 
 - 🌐 Check out my portfolio: [developermaroof.vercel.app](https://developermaroof.vercel.app/)
 - 📧 Email me: **developermaroof@gmail.com**
+- 📱 Call or WhatsApp: **+923153048864**
 - ⚡ Fun fact: **I Love Coding**
 
 <div align="center">
