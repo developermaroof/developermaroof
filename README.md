@@ -117,45 +117,53 @@ const devOpsSkills = [
 ## 🧩 Skills & Technologies
 
 <p align="center">
+
   <!-- Frontend -->
-  <img src="/skills/html.svg" alt="HTML" width="40" height="40" title="HTML5" />&nbsp;
-  <img src="/skills/css.svg" alt="CSS" width="40" height="40" title="CSS3" />&nbsp;
-  <img src="/skills/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />&nbsp;
-  <img src="/skills/typescript.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />&nbsp;
-  <img src="/skills/react.svg" alt="React" width="40" height="40" title="React" />&nbsp;
-  <img src="/skills/nextjs.png" alt="Next.js" width="40" height="40" title="Next.js" />&nbsp;
-  <img src="/skills/redux.svg" alt="Redux" width="40" height="40" title="Redux" />&nbsp;
-  
+
+<img src="/skills/html.svg" alt="HTML" width="40" height="40" title="HTML5" />&nbsp;
+<img src="/skills/css.svg" alt="CSS" width="40" height="40" title="CSS3" />&nbsp;
+<img src="/skills/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />&nbsp;
+<img src="/skills/typescript.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />&nbsp;
+<img src="/skills/react.svg" alt="React" width="40" height="40" title="React" />&nbsp;
+<img src="/skills/nextjs.png" alt="Next.js" width="40" height="40" title="Next.js" />&nbsp;
+<img src="/skills/redux.svg" alt="Redux" width="40" height="40" title="Redux" />&nbsp;
+
   <!-- Backend -->
-  <img src="/skills/nodejs.png" alt="Node.js" width="40" height="40" title="Node.js" />&nbsp;
-  <img src="/skills/express.svg" alt="Express" width="40" height="40" title="Express.js" />&nbsp;
-  <img src="/skills/mongodb.png" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
-  <img src="/skills/firebase.png" alt="Firebase" width="40" height="40" title="Firebase" />&nbsp;
-  <img src="https://graphql.org/img/logo.svg" alt="GraphQL" width="40" height="40" title="GraphQL" />&nbsp;
-  
+
+<img src="/skills/nodejs.png" alt="Node.js" width="40" height="40" title="Node.js" />&nbsp;
+<img src="/skills/express.svg" alt="Express" width="40" height="40" title="Express.js" />&nbsp;
+<img src="/skills/mongodb.png" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
+<img src="/skills/firebase.png" alt="Firebase" width="40" height="40" title="Firebase" />&nbsp;
+<img src="https://graphql.org/img/logo.svg" alt="GraphQL" width="40" height="40" title="GraphQL" />&nbsp;
+
   <!-- Styling & Animation -->
-  <img src="/skills/tailwind.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />&nbsp;
-  <img src="/skills/sass.svg" alt="Sass" width="40" height="40" title="Sass/SCSS" />&nbsp;
-  <img src="/skills/bootstrap.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />&nbsp;
-  <img src="/skills/materialui.svg" alt="Material UI" width="40" height="40" title="Material UI" />&nbsp;
-  <img src="/skills/framer.svg" alt="Framer Motion" width="40" height="40" title="Framer Motion" />&nbsp;
-  
+
+<img src="/skills/tailwind.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />&nbsp;
+<img src="/skills/sass.svg" alt="Sass" width="40" height="40" title="Sass/SCSS" />&nbsp;
+<img src="/skills/bootstrap.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />&nbsp;
+<img src="/skills/materialui.svg" alt="Material UI" width="40" height="40" title="Material UI" />&nbsp;
+<img src="/skills/framer.svg" alt="Framer Motion" width="40" height="40" title="Framer Motion" />&nbsp;
+
   <!-- Tools -->
-  <img src="/skills/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
-  <img src="/skills/github.png" alt="GitHub" width="40" height="40" title="GitHub" />&nbsp;
-  <img src="/skills/cloudinary.svg" alt="Cloudinary" width="40" height="40" title="Cloudinary" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="Sanity.io" width="40" height="40" title="Sanity.io" />&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhqkskMPw6NFvikWOuKvp-zZ8aaCUq2i1Xg&s" alt="Hygraph" width="40" height="40" title="Hygraph (GraphCMS)" />&nbsp;
-  
+
+<img src="/skills/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
+<img src="/skills/github.png" alt="GitHub" width="40" height="40" title="GitHub" />&nbsp;
+<img src="/skills/cloudinary.svg" alt="Cloudinary" width="40" height="40" title="Cloudinary" />&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="Sanity.io" width="40" height="40" title="Sanity.io" />&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhqkskMPw6NFvikWOuKvp-zZ8aaCUq2i1Xg&s" alt="Hygraph" width="40" height="40" title="Hygraph (GraphCMS)" />&nbsp;
+
   <!-- Testing -->
-  <img src="/skills/jest.svg" alt="Jest" width="40" height="40" title="Jest" />&nbsp;
-  <img src="/skills/rtl.png" alt="React Testing Library" width="40" height="40" title="React Testing Library" />&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="Cypress" width="40" height="40" title="Cypress" />&nbsp;
-  
+
+<img src="/skills/jest.svg" alt="Jest" width="40" height="40" title="Jest" />&nbsp;
+<img src="/skills/rtl.png" alt="React Testing Library" width="40" height="40" title="React Testing Library" />&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="Cypress" width="40" height="40" title="Cypress" />&nbsp;
+
   <!-- Deployment -->
-  <img src="/skills/netlify.png" alt="Netlify" width="80" height="40" title="Netlify" />&nbsp;
-  <img src="https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo-thumbnail.png" alt="Vercel" width="40" height="40" title="Vercel" />&nbsp;
-  <img src="/skills/canva.svg" alt="Canva" width="40" height="40" title="Canva" />
+
+<img src="/skills/netlify.png" alt="Netlify" width="80" height="40" title="Netlify" />&nbsp;
+<img src="https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo-thumbnail.png" alt="Vercel" width="40" height="40" title="Vercel" />&nbsp;
+<img src="/skills/canva.svg" alt="Canva" width="40" height="40" title="Canva" />
+
 </p>
 
 <br>
