@@ -120,7 +120,7 @@ const devOpsSkills = [
 
   <!-- Frontend -->
 
-### Frontend
+### Frontend:
 
 <img src="/skills/html.svg" alt="HTML" width="40" height="40" title="HTML5" />&nbsp;
 <img src="/skills/css.svg" alt="CSS" width="40" height="40" title="CSS3" />&nbsp;
@@ -132,7 +132,7 @@ const devOpsSkills = [
 
   <!-- Backend -->
 
-### Backend
+### Backend:
 
 <img src="/skills/nodejs.png" alt="Node.js" width="40" height="40" title="Node.js" />&nbsp;
 <img src="/skills/express.svg" alt="Express" width="40" height="40" title="Express.js" />&nbsp;
@@ -142,7 +142,7 @@ const devOpsSkills = [
 
   <!-- Styling & Animation -->
 
-### Styling & Animation
+### Styling & Animation:
 
 <img src="/skills/tailwind.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />&nbsp;
 <img src="/skills/sass.svg" alt="Sass" width="40" height="40" title="Sass/SCSS" />&nbsp;
@@ -152,7 +152,7 @@ const devOpsSkills = [
 
   <!-- Tools -->
 
-### Tools
+### Tools:
 
 <img src="/skills/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
 <img src="/skills/github.png" alt="GitHub" width="40" height="40" title="GitHub" />&nbsp;
@@ -162,7 +162,7 @@ const devOpsSkills = [
 
   <!-- Testing -->
 
-### Testing
+### Testing:
 
 <img src="/skills/jest.svg" alt="Jest" width="40" height="40" title="Jest" />&nbsp;
 <img src="/skills/rtl.png" alt="React Testing Library" width="40" height="40" title="React Testing Library" />&nbsp;
@@ -170,7 +170,7 @@ const devOpsSkills = [
 
   <!-- Deployment -->
 
-### Deployment
+### Deployment:
 
 <img src="/skills/netlify.png" alt="Netlify" width="80" height="40" title="Netlify" />&nbsp;
 <img src="https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo-thumbnail.png" alt="Vercel" width="40" height="40" title="Vercel" />&nbsp;
