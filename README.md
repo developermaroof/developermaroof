@@ -138,7 +138,7 @@ const devOpsSkills = [
   <img src="/skills/sass.svg" alt="Sass" width="40" height="40" title="Sass/SCSS" />&nbsp;
   <img src="/skills/bootstrap.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />&nbsp;
   <img src="/skills/materialui.svg" alt="Material UI" width="40" height="40" title="Material UI" />&nbsp;
-  <img src="https://camo.githubusercontent.com/2ba6968e509f3b105c56d6b7eaa91010b2f7dcf051e396238f11abfd7e513964/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51474b30634e6b4d6d4b4c45456876412e706e67" alt="Framer Motion" width="40" height="40" title="Framer Motion" />&nbsp;
+  <img src="/skills/framer.svg" alt="Framer Motion" width="40" height="40" title="Framer Motion" />&nbsp;
   
   <!-- Tools -->
   <img src="/skills/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
