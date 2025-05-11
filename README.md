@@ -1,218 +1,201 @@
-![Devloper Maroof](/banner.png)
+# <div align="center">👨‍💻 Maroof Qureshi | Full-Stack Web Developer</div>
 
-<br>
-
-<h3>𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:</h3>
-
-<br>
-
-I am Maroof Qureshi, a Fullstack Web Developer with a portfolio of 75+ successful projects. Specializing in end-to-end web solutions, I combine expertise in frontend development with newly acquired backend proficiency in Next.js, RESTful API development, and MongoDB integration. Known for delivering user-centric, performance-optimized applications, my work spans diverse industries and international teams, showcasing my versatility and commitment to bridging technical excellence with business needs.
-
-<br><br>
-
-<h3>𝐖𝐨𝐫𝐤 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:</h3>
-
-<br>
-
-- 💼 **𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
-  Devnito | Dubai, United Arab Emirates | Feb 2025 - Present
-
-- 💼 **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
-  Devnito | Dubai, United Arab Emirates | Feb 2024 - Feb 2025
-
-- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
-  IIT Pakistan | Hyderabad, Pakistan | Apr - Jun 2024
-
-- 💼 **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
-  Skill Genie | Bangalore, India | Mar - May 2024
-
-- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫**  
-  Tech-A-Intern | Noida, Uttar Pradesh, India | Mar - Apr 2024
-
-- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐎𝐧𝐛𝐨𝐚𝐫𝐝𝐢𝐧𝐠 𝐒𝐞𝐫𝐯𝐢𝐜𝐞**  
-  Fondi Inc | Tokyo, Japan | Jul - Aug 2024
-
-- 💼 **𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐒𝐚𝐥𝐞𝐬 𝐒𝐤𝐢𝐥𝐥𝐬 𝐒𝐞𝐫𝐯𝐢𝐜𝐞**  
-  Fondi Inc | Tokyo, Japan | Aug - Oct 2024
-
-<br><br>
-
-<h3>𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:</h3>
-
-<br>
-
-- </> **𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝘀 & 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬:**  
-  HTML, CSS, JavaScript, Next.js, React.js, Redux, TypeScript, Node.js
-
-- </> **𝐁𝐚𝐜𝐤𝐞𝐧𝐝 & 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝘀:**  
-  RESTful API Development, MongoDB, Express.Js
-
-- </> **𝐓𝐨𝐨𝐥𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬:**  
-  Firebase, Tailwind CSS, Sass/SCSS, Bootstrap, Git, GitHub, Cloudinary, Material UI
-
-- </> **𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐞𝐝 𝐒𝐤𝐢𝐥𝐥𝐬:**  
-  Fullstack Integration, API Design, CSS Animations, Performance Optimization, Debugging
-
-- </> **𝐓𝐞𝐬𝐭𝐢𝐧𝐠 & 𝐃𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠:**  
-  Jest, React Testing Library (RTL), Cypress, Snapshot Testing, React Dev Tools
-
-- </> **𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 & 𝐃𝐞𝐬𝐢𝐠𝐧:**  
-  Netlify, Vercel, Canva
-
-<br><br>
-
-<h3>𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞:</h3>
-
-<br>
-
-Beyond my technical skills, I bring strong experience in cross-functional collaboration and client communication. My shift to fullstack development underscores my commitment to managing projects from ideation to deployment while continuously adapting to industry trends.
-
-<br><br>
-
-- 👨‍💻 My Portfolio [https://developermaroof.vercel.app/](https://developermaroof.vercel.app/)
-- 📫 How to reach me **developermaroof@gmail.com**
-- ⚡ Fun fact **I Love Coding**
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/developermaroof" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developermaroof" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/developermaroofpage" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developermaroofpage" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/developer_maroof" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_maroof" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="/skills/html.svg" alt="html" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="/skills/css.svg" alt="css" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="/skills/javascript.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="/skills/nextjs.png" alt="nextjs" width="40" height="40"/> 
-  </a>
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="/skills/react.svg" alt="react" width="40" height="40"/> 
-  </a>
-
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="/skills/redux.svg" alt="redux" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="/skills/typescript.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="/skills/nodejs.png" alt="nodejs" width="40" height="40"/> 
-  </a>
-
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/express.svg" alt="express" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/mongodb.png" alt="mongodb" width="40" height="40"/> 
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/firebase.png" alt="firebase" width="40" height="40"/> 
-  </a>
-
-  <a href="https://tailwindui.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/tailwind.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/sass.svg" alt="sass/scss" width="40" height="40"/> 
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="/skills/bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-
-</p>
-
-<p>
-
-   <a href="https://console.cloudinary.com/console/c-949b1e1f76346175b9d66e0cde23d0/media_library/homepage" target="_blank" rel="noreferrer">
-    <img src="/skills/cloudinary.svg" alt="cloudinary" width="40" height="40"/> 
-  </a>
-
-  <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer">
-    <img src="/skills/materialui.svg" alt="materialui" width="40" height="40"/> 
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/git.svg" alt="git" width="40" height="40"/> 
-  </a>
+<div align="center">
+  <img src="/banner.png" alt="Developer Maroof" width="100%" />
+  <br><br>
   
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/github.png" alt="github" width="40" height="40"/> 
-  </a>
+  [![GitHub followers](https://img.shields.io/github/followers/developermaroof?style=social)](https://github.com/developermaroof)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-developermaroof.vercel.app-blue)](https://developermaroof.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-developermaroof-0077B5?logo=linkedin)](https://linkedin.com/in/developermaroof)
+  [![Email](https://img.shields.io/badge/Email-developermaroof%40gmail.com-red?logo=gmail)](mailto:developermaroof@gmail.com)
+  ![Profile views](https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat)
+</div>
 
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="/skills/jest.svg" alt="jest" width="40" height="40"/> 
-  </a>
+<br>
 
-  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/rtl.png" alt="react-testing-library" width="40" height="40"/> 
-  </a>
+## 📋 Professional Summary
 
-  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="cypress" width="40" height="40"/> 
-  </a>
+I am **Maroof Qureshi**, a **Full-stack Web Developer** with a broad portfolio of **70+ successful projects** spanning diverse industries.
 
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/netlify.png" alt="netlify" width="80" height="40"/> 
-  </a>
+I specialize in modern web stacks, leveraging frameworks like **Next.js** and **Tailwind CSS**. On the backend, I build robust APIs and services using **Express.js** and **MongoDB**, and integrate headless content platforms such as **Hygraph** and **Sanity.io**.
 
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo-thumbnail.png" alt="vercel" width="40" height="40"/> 
-  </a>
+On the front end, I enrich user experience with advanced tools like **Framer Motion** and **ImageKit** to deliver high-performance visuals and blazing-fast load times. I maintain a **client‑oriented mindset**, build trust through clear communication, and constantly explore new tools to stay ahead.
 
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="/skills/canva.svg" alt="canva" width="40" height="40"/> 
-  </a>
+I'm committed to delivering **performance-optimized**, **user-centric applications** that align with business goals.
 
-</p>
-<br><br>
+<br>
 
-<!-- GitHub Trophies -->
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=developermaroof" alt="trophies" />
-  </a>
-</p>
+## 💼 Work Experience
 
-<!-- GitHub Stats Card -->
-<h3 align="left">📊 GitHub Stats</h3>
+- 🚀 **Full-stack Developer**  
+  _Devnito | Dubai, UAE | Feb 2025 - Present_
+
+- 💻 **Frontend Developer**  
+  _Devnito | Dubai, UAE | Feb 2024 - Feb 2025_
+
+- 📝 **Certified Web Developer**  
+  _IIT Pakistan | Hyderabad, Pakistan | Apr - Jun 2024_
+
+- 🌐 **Web Developer**  
+  _Skill Genie | Bangalore, India | Mar - May 2024_
+
+- 📊 **Certified Web Developer**  
+  _Tech-A-Intern | Noida, Uttar Pradesh, India | Mar - Apr 2024_
+
+- 🤝 **Certified Community Onboarding Service**  
+  _Fondi Inc | Tokyo, Japan | Jul - Aug 2024_
+
+- 💼 **Certified Sales Skills Service**  
+  _Fondi Inc | Tokyo, Japan | Aug - Oct 2024_
+
+<br>
+
+## ⚙️ Technical Skills
+
+### 🔧 Core Development
+
+```javascript
+const coreSkills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "TypeScript",
+  "React.js",
+  "Next.js",
+  "Redux",
+  "Node.js",
+  "REST APIs",
+  "GraphQL",
+];
+```
+
+### 💾 Databases & CMS
+
+```javascript
+const databaseSkills = [
+  "MongoDB",
+  "Firebase",
+  "Hygraph (GraphCMS)",
+  "Sanity.io",
+];
+```
+
+### 🎨 UI, Animations & Media
+
+```javascript
+const uiSkills = [
+  "Tailwind CSS",
+  "Material UI",
+  "Sass/SCSS",
+  "Bootstrap",
+  "Framer Motion",
+  "ImageKit",
+  "Cloudinary",
+  "CSS animations",
+];
+```
+
+### 🛠️ Tools & DevOps
+
+```javascript
+const devOpsSkills = [
+  "Git",
+  "GitHub",
+  "Netlify",
+  "Vercel",
+  "Jest",
+  "Cypress",
+  "React Testing Library (RTL)",
+];
+```
+
+<br>
+
+## 🧩 Skills & Technologies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developermaroof&show_icons=true&theme=radical" alt="developermaroof" />
+  <!-- Frontend -->
+  <img src="/skills/html.svg" alt="HTML" width="40" height="40" title="HTML5" />&nbsp;
+  <img src="/skills/css.svg" alt="CSS" width="40" height="40" title="CSS3" />&nbsp;
+  <img src="/skills/javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />&nbsp;
+  <img src="/skills/typescript.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />&nbsp;
+  <img src="/skills/react.svg" alt="React" width="40" height="40" title="React" />&nbsp;
+  <img src="/skills/nextjs.png" alt="Next.js" width="40" height="40" title="Next.js" />&nbsp;
+  <img src="/skills/redux.svg" alt="Redux" width="40" height="40" title="Redux" />&nbsp;
+  
+  <!-- Backend -->
+  <img src="/skills/nodejs.png" alt="Node.js" width="40" height="40" title="Node.js" />&nbsp;
+  <img src="/skills/express.svg" alt="Express" width="40" height="40" title="Express.js" />&nbsp;
+  <img src="/skills/mongodb.png" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
+  <img src="/skills/firebase.png" alt="Firebase" width="40" height="40" title="Firebase" />&nbsp;
+  
+  <!-- Styling -->
+  <img src="/skills/tailwind.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS" />&nbsp;
+  <img src="/skills/sass.svg" alt="Sass" width="40" height="40" title="Sass/SCSS" />&nbsp;
+  <img src="/skills/bootstrap.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />&nbsp;
+  <img src="/skills/materialui.svg" alt="Material UI" width="40" height="40" title="Material UI" />&nbsp;
+  
+  <!-- Tools -->
+  <img src="/skills/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
+  <img src="/skills/github.png" alt="GitHub" width="40" height="40" title="GitHub" />&nbsp;
+  <img src="/skills/cloudinary.svg" alt="Cloudinary" width="40" height="40" title="Cloudinary" />&nbsp;
+  
+  <!-- Testing -->
+  <img src="/skills/jest.svg" alt="Jest" width="40" height="40" title="Jest" />&nbsp;
+  <img src="/skills/rtl.png" alt="React Testing Library" width="40" height="40" title="React Testing Library" />&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="Cypress" width="40" height="40" title="Cypress" />&nbsp;
+  
+  <!-- Deployment -->
+  <img src="/skills/netlify.png" alt="Netlify" width="80" height="40" title="Netlify" />&nbsp;
+  <img src="https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo-thumbnail.png" alt="Vercel" width="40" height="40" title="Vercel" />&nbsp;
+  <img src="/skills/canva.svg" alt="Canva" width="40" height="40" title="Canva" />
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact" alt="developermaroof" />
-</p>
-<br><br>
+<br>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" />
-</p>
+## 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developermaroof&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=developermaroof&theme=radical&row=1" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/developermaroof" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/developermaroofpage" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/developer_maroof" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:developermaroof@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<br>
+
+## 👨‍💻 Portfolio & Contact
+
+- 🌐 Check out my portfolio: [developermaroof.vercel.app](https://developermaroof.vercel.app/)
+- 📧 Email me: **developermaroof@gmail.com**
+- ⚡ Fun fact: **I Love Coding**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Let's+connect+and+collaborate!&center=true&width=380&height=45" alt="Thank You" />
+</div>
