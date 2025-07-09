@@ -27,11 +27,11 @@ I'm committed to delivering **performance-optimised**, **user-centric applicatio
 
 ## 💼 𝐖𝐨𝐫𝐤 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
 
-- 💻 **Frontend Developer**  
-  _HuboWeb | Lahore, Pakistan | Jun 2025 - Present_
-
 - 🚀 **Full-stack Developer**  
   _Devnito | Dubai, UAE | Feb 2025 - Present_
+
+- 💻 **Frontend Developer**  
+  _HuboWeb | Lahore, Pakistan | Jun - Jul 2025_
 
 - 💻 **Frontend Developer**  
   _Devnito | Dubai, UAE | Feb 2024 - Feb 2025_
@@ -106,13 +106,7 @@ const uiSkills = [
 ### 🤖 AI & Advanced Integration
 
 ```javascript
-const aiSkills = [
-  "AI Integration",
-  "Machine Learning APIs",
-  "Natural Language Processing",
-  "AI-powered User Experiences",
-  "Intelligent Automation",
-];
+const aiSkills = ["AI Integration"];
 ```
 
 ### 🛠️ Tools & DevOps
@@ -183,8 +177,7 @@ const additionalSkills = [
 
 ### AI & Advanced Technologies:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI Integration" width="40" height="40" title="AI Integration" />&nbsp;
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="40" height="40" title="OpenAI APIs" />&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJ7b2MrGs0-5ffiM_M9OeujnUqBta5zrtzg&s" alt="OpenAI" width="40" height="40" title="OpenAI APIs" />&nbsp;
 
   <!-- Tools -->
 
