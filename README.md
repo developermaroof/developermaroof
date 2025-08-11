@@ -13,68 +13,73 @@
 
 <br>
 
-## 📋 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐒𝐮𝐦𝐦𝐚𝐫𝐲
+## 👨🏻‍💻 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐒𝐮𝐦𝐦𝐚𝐫𝐲
 
-I am **𝐌𝐚𝐫𝐨𝐨𝐟 𝐐𝐮𝐫𝐞𝐬𝐡𝐢**, a **𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** with a broad portfolio of **70+ successful projects** spanning diverse industries.
+Hi, I'm **𝐌𝐚𝐫𝐨𝐨𝐟 𝐐𝐮𝐫𝐞𝐬𝐡𝐢**, a **𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** who turns ideas into powerful digital solutions. With **70+ successful projects** across multiple industries, I help businesses build fast, scalable, and user-friendly web applications that drive real results.
 
-I specialise in modern web stacks, leveraging frameworks like **Next.js** and **Tailwind CSS**. On the backend, I build robust APIs and services using **Express.js** and **MongoDB**, and integrate headless content platforms such as **Hygraph** and **Sanity.io**.
+I specialise in modern web technologies and create end-to-end solutions that not only look great but perform exceptionally. From sleek frontends to robust backends, I deliver applications that users love and businesses depend on.
 
-On the front end, I enrich user experience with advanced tools like **Framer Motion**, **ImageKit**, **Shadcn**, and **AI integration** to deliver high-performance visuals and blazing-fast load times. I maintain a **client‑oriented mindset**, build trust through clear communication, and constantly explore new tools to stay ahead.
+### 𝐖𝐡𝐚𝐭 𝐈 𝐛𝐫𝐢𝐧𝐠 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐩𝐫𝐨𝐣𝐞𝐜𝐭:
 
-I'm committed to delivering **performance-optimised**, **user-centric applications** that align with business goals and leverage cutting-edge AI technologies.
+• Lightning-fast websites that convert visitors into customers  
+• Scalable applications that grow with your business  
+• Clean, maintainable code that stands the test of time  
+• Clear communication and on-time delivery
 
 <br>
 
 ## 💼 𝐖𝐨𝐫𝐤 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
 
-- 🚀 **Full-stack Developer**  
-  _Devnito | Dubai, UAE | Feb 2025 - Present_
-
-- 💻 **Frontend Developer**  
-  _HuboWeb | Lahore, Pakistan | Jun - Jul 2025_
-
-- 💻 **Frontend Developer**  
-  _Devnito | Dubai, UAE | Feb 2024 - Feb 2025_
-
-- 📝 **Certified Web Developer**  
-  _IIT Pakistan | Hyderabad, Pakistan | Apr - Jun 2024_
-
-- 🌐 **Web Developer**  
-  _Skill Genie | Bangalore, India | Mar - May 2024_
-
-- 📊 **Certified Web Developer**  
-  _Tech-A-Intern | Noida, Uttar Pradesh, India | Mar - Apr 2024_
-
-- 🤝 **Certified Community Onboarding Service**  
-  _Fondi Inc | Tokyo, Japan | Jul - Aug 2024_
-
-- 💼 **Certified Sales Skills Service**  
-  _Fondi Inc | Tokyo, Japan | Aug - Oct 2024_
+• **𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** | Devnito, Dubai, UAE | Feb 2025 – Present  
+• **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** | HuboWeb, Lahore, Pakistan | Jun 2025 - Present  
+• **𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** | Devnito, Dubai, UAE | Feb 2024 – Feb 2025  
+• **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** | IIT Solutions, Hyderabad, Pakistan | Apr – Jun 2024  
+• **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** | Skill Genie, Bangalore, India | Mar – May 2024  
+• **𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫** | Tech-A-Intern, Noida, India | Mar - Apr 2024  
+• **𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐎𝐧𝐛𝐨𝐚𝐫𝐝𝐢𝐧𝐠** | Fondi Inc, Tokyo, Japan | Jul - Aug 2024  
+• **𝐒𝐚𝐥𝐞𝐬 𝐒𝐤𝐢𝐥𝐥𝐬** | Fondi Inc, Tokyo, Japan | Aug - Oct 2024
 
 <br>
 
 ## ⚙️ 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
-### 🔧 Core Development
+### 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭
 
 ```javascript
-const coreSkills = [
-  "HTML",
-  "CSS",
+const frontendSkills = [
+  "HTML5",
+  "CSS3",
   "JavaScript",
   "TypeScript",
   "React.js",
   "Next.js",
   "Redux",
-  "Node.js",
-  "REST APIs",
-  "GraphQL",
-  "Express.js",
-  "API Integration",
+  "Zustand",
+  "TanStack Query",
+  "Tailwind CSS",
+  "Shadcn/ui",
+  "Material UI",
+  "Sass/SCSS",
+  "Bootstrap",
 ];
 ```
 
-### 💾 Databases & CMS
+### 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 & 𝐀𝐏𝐈𝐬
+
+```javascript
+const backendSkills = [
+  "Node.js",
+  "Express.js",
+  "REST APIs",
+  "GraphQL",
+  "Third-party integrations",
+  "JWT",
+  "OAuth",
+  "NextAuth.js",
+];
+```
+
+### 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 & 𝐂𝐨𝐧𝐭𝐞𝐧𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭
 
 ```javascript
 const databaseSkills = [
@@ -82,55 +87,44 @@ const databaseSkills = [
   "Firebase",
   "Hygraph (GraphCMS)",
   "Sanity.io",
-  "Headless CMS Integration",
 ];
 ```
 
-### 🎨 UI, Animations & Media
+### 𝐔𝐈/𝐔𝐗 & 𝐀𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧𝐬
 
 ```javascript
 const uiSkills = [
-  "Tailwind CSS",
-  "Shadcn/ui",
-  "Material UI",
-  "Sass/SCSS",
-  "Bootstrap",
   "Framer Motion",
+  "CSS animations",
   "ImageKit",
   "Cloudinary",
-  "CSS animations",
-  "Responsive Design",
+  "Responsive design",
 ];
 ```
 
-### 🤖 AI & Advanced Integration
+### 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬
 
 ```javascript
-const aiSkills = ["AI Integration"];
-```
-
-### 🛠️ Tools & DevOps
-
-```javascript
-const devOpsSkills = [
+const devToolsSkills = [
   "Git",
   "GitHub",
-  "Netlify",
   "Vercel",
+  "Netlify",
   "Jest",
   "Cypress",
-  "React Testing Library (RTL)",
+  "React Testing Library",
 ];
 ```
 
-### ➕ Additional Expertise & Soft Skills
+### 𝐌𝐨𝐝𝐞𝐫𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
 
 ```javascript
-const additionalSkills = [
-  "Client Onboarding & Sales",
-  "Technical Solutions Architecture",
-  "Continuous Learning",
-  "Quality & Maintainability Focus",
+const modernTechSkills = [
+  "SEO optimisation",
+  "Core Web Vitals",
+  "Zustand",
+  "Redux Toolkit",
+  "Context API",
 ];
 ```
 
