@@ -167,12 +167,6 @@ const modernTechSkills = [
 <img src="/skills/materialui.svg" alt="Material UI" width="40" height="40" title="Material UI" />&nbsp;
 <img src="/skills/framer.svg" alt="Framer Motion" width="40" height="40" title="Framer Motion" />&nbsp;
 
-  <!-- AI & Advanced -->
-
-### AI & Advanced Technologies:
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWJ7b2MrGs0-5ffiM_M9OeujnUqBta5zrtzg&s" alt="OpenAI" width="40" height="40" title="OpenAI APIs" />&nbsp;
-
   <!-- Tools -->
 
 ### Tools:
@@ -209,14 +203,6 @@ const modernTechSkills = [
   <img src="https://github-readme-stats.vercel.app/api?username=developermaroof&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=developermaroof&theme=radical&row=1" alt="GitHub Trophies" />
 </div>
 
 <br>
