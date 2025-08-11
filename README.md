@@ -222,11 +222,11 @@ const modernTechSkills = [
   <a href="mailto:developermaroof@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/923153048864" target="_blank">
+  <a href="https://wa.me/923138320823" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="tel:+923153048864" target="_blank">
-    <img src="https://img.shields.io/badge/Call-%2B923153048864-008000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  <a href="tel:+923138320823" target="_blank">
+    <img src="https://img.shields.io/badge/Call-%2B923138320823-008000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
 </div>
 
@@ -236,7 +236,7 @@ const modernTechSkills = [
 
 - 🌐 Check out my portfolio: [developermaroof.vercel.app](https://developermaroof.vercel.app/)
 - 📧 Email me: **developermaroof@gmail.com**
-- 📱 Call or WhatsApp: **+923153048864**
+- 📱 Call or WhatsApp: **+923138320823**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Let's+connect+and+collaborate!;AI-Powered+Web+Solutions!&center=true&width=380&height=45" alt="Thank You" />
