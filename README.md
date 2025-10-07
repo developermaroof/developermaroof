@@ -170,7 +170,7 @@ const modernTechSkills = [
 <img src="/skills/bootstrap.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />&nbsp;
 <img src="/skills/materialui.svg" alt="Material UI" width="40" height="40" title="Material UI" />&nbsp;
 <img src="/skills/framer.svg" alt="Framer Motion" width="40" height="40" title="Framer Motion" />&nbsp;
-<img src="https://imagekit.io/images/logo.svg" alt="ImageKit" width="40" height="40" title="ImageKit" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/imagekit/imagekit-original.svg" alt="ImageKit" width="40" height="40" title="ImageKit" />&nbsp;
 
   <!-- Tools -->
 
