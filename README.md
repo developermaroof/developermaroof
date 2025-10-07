@@ -108,6 +108,7 @@ const uiSkills = [
 const devToolsSkills = [
   "Git",
   "GitHub",
+  "Docker",
   "Vercel",
   "Netlify",
   "Jest",
@@ -155,6 +156,9 @@ const modernTechSkills = [
 <img src="/skills/mongodb.png" alt="MongoDB" width="40" height="40" title="MongoDB" />&nbsp;
 <img src="/skills/firebase.png" alt="Firebase" width="40" height="40" title="Firebase" />&nbsp;
 <img src="https://graphql.org/img/logo.svg" alt="GraphQL" width="40" height="40" title="GraphQL" />&nbsp;
+<img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40" title="JWT" />&nbsp;
+<img src="https://oauth.net/images/oauth-2-sm.png" alt="OAuth" width="40" height="40" title="OAuth" />&nbsp;
+<img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="40" height="40" title="NextAuth.js" />&nbsp;
 
   <!-- Styling & Animation -->
 
@@ -166,6 +170,7 @@ const modernTechSkills = [
 <img src="/skills/bootstrap.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap" />&nbsp;
 <img src="/skills/materialui.svg" alt="Material UI" width="40" height="40" title="Material UI" />&nbsp;
 <img src="/skills/framer.svg" alt="Framer Motion" width="40" height="40" title="Framer Motion" />&nbsp;
+<img src="https://imagekit.io/images/logo.svg" alt="ImageKit" width="40" height="40" title="ImageKit" />&nbsp;
 
   <!-- Tools -->
 
@@ -173,6 +178,7 @@ const modernTechSkills = [
 
 <img src="/skills/git.svg" alt="Git" width="40" height="40" title="Git" />&nbsp;
 <img src="/skills/github.png" alt="GitHub" width="40" height="40" title="GitHub" />&nbsp;
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40" title="Docker" />&nbsp;
 <img src="/skills/cloudinary.svg" alt="Cloudinary" width="40" height="40" title="Cloudinary" />&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="Sanity.io" width="40" height="40" title="Sanity.io" />&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhqkskMPw6NFvikWOuKvp-zZ8aaCUq2i1Xg&s" alt="Hygraph" width="40" height="40" title="Hygraph (GraphCMS)" />&nbsp;
