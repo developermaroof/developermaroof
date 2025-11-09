@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👨‍💻+Maroof+Qureshi;Full-Stack+Web+Developer;Building+Digital+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👨‍💻+Maroof+Qureshi;Full-Stack+Web+Developer;Upwork+Rising+Talent+⭐;Building+Digital+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,6 +14,9 @@
   </a>
   <a href="https://developermaroof.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://upwork.com">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
   <a href="https://linkedin.com/in/developermaroof">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -93,6 +96,74 @@
 ---
 
 <div align="center">
+  <h2>🎯 Freelance Achievements</h2>
+</div>
+
+<div align="center">
+
+[![Upwork Rising Talent](https://img.shields.io/badge/Upwork-Rising_Talent-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
+[![Rating](https://img.shields.io/badge/Rating-5.0⭐-gold?style=for-the-badge)](https://upwork.com)
+[![Earnings](https://img.shields.io/badge/Earnings-$1K+-00D4FF?style=for-the-badge)](https://upwork.com)
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
+
+### 🚀 **Video Calling Web Application**
+
+**Javascript Expert** • _Sep 2025 - Nov 2025_
+
+Built a production-ready video calling platform similar to Google Meet with real-time communication capabilities.
+
+**Key Highlights:**
+
+- ⭐ **5.0 Star Rating** from client
+- 💰 **$1,428.34** project value
+- ⏱️ **305 hours** of dedicated work
+- 👥 Collaborated with a remote team
+- 🎯 Delivered on time with exceptional quality
+
+**Technologies Used:**
+
+```javascript
+["JavaScript (Vanilla)", "Tailwind CSS", "AWS", "WebRTC"];
+```
+
+**Client:** Linden May
+
+> 💬 **Client Testimonial:**
+>
+> _"Maroof did exceptional work building our video calling web app. His expertise in vanilla JavaScript, Tailwind CSS, and AWS was outstanding. Great team player who delivered quality work on time. Highly recommend!"_
+>
+> — **Linden May**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=developermaroof&repo=developermaroof&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" alt="Freelance Stats" />
+
+<br><br>
+
+### 📊 Freelance Stats
+
+| Metric    | Value |
+| --------- | ----- |
+| ✅ Jobs   | 1     |
+| ⏰ Hours  | 305+  |
+| 💵 Earned | $1K+  |
+| ⭐ Rating | 5.0   |
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
   <h2>💼 Work Experience</h2>
 </div>
 
@@ -100,8 +171,9 @@
 
 | 🏢 Company        | 📍 Location         | 💼 Role              | 📅 Duration         | 🔥 Status    |
 | ----------------- | ------------------- | -------------------- | ------------------- | ------------ |
-| **Devnito**       | Dubai, UAE          | Full-Stack Developer | Feb 2025 – Present  | 🟢 Current   |
+| **Upwork**        | Remote              | Freelance Developer  | Sep 2025 - Present  | 🟢 Current   |
 | **HuboWeb**       | Lahore, Pakistan    | Frontend Developer   | Jun 2025 - Present  | 🟢 Current   |
+| **Devnito**       | Dubai, UAE          | Full-Stack Developer | Feb 2025 – Aug 2025 | ✅ Completed |
 | **Devnito**       | Dubai, UAE          | Frontend Developer   | Feb 2024 – Feb 2025 | ✅ Completed |
 | **IIT Solutions** | Hyderabad, Pakistan | Web Developer        | Apr – Jun 2024      | ✅ Completed |
 | **Skill Genie**   | Bangalore, India    | Web Developer        | Mar – May 2024      | ✅ Completed |
@@ -290,6 +362,7 @@ const database = [
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developermaroof)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://developermaroof.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developermaroof@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923138320823)
