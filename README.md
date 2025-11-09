@@ -144,10 +144,6 @@ Built a production-ready video calling platform similar to Google Meet with real
 </td>
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developermaroof&repo=developermaroof&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" alt="Freelance Stats" />
-
-<br><br>
-
 ### 📊 Freelance Stats
 
 | Metric    | Value |
