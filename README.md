@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👨‍💻+Maroof+Qureshi;Full-Stack+Web+Developer;Upwork+Rising+Talent+⭐;Building+Digital+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👨‍💻+Maroof+Qureshi;Full-Stack+Web+Developer;Upwork+Rising+Talent+⭐;YouTube+Content+Creator+🎥;Teaching+Coding+to+the+World;Building+Digital+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,6 +20,9 @@
   </a>
   <a href="https://linkedin.com/in/developermaroof">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@developermaroof_official">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:developermaroof@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -47,6 +50,22 @@
 </div>
 
 <br>
+
+### 🎥 **YouTube Content Creator**
+
+I share my knowledge and help others learn web development on my YouTube channel!
+
+<div align="center">
+
+[![YouTube Channel](https://img.shields.io/badge/Subscribe-Developer_Maroof-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@developermaroof_official)
+
+**📚 Teaching coding lessons and sharing development tips**
+
+</div>
+
+<br>
+
+---
 
 ### 💡 **What I Bring to Your Project:**
 
@@ -358,6 +377,7 @@ const database = [
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developermaroof)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@developermaroof_official)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://developermaroof.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developermaroof@gmail.com)
