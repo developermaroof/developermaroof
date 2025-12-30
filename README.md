@@ -71,7 +71,7 @@ Skills: JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Redux
 
 **Full-Stack Developer** passionate about building **scalable web applications** and teaching others to code.
 
-With **3+ years of professional experience** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), I deliver high-quality solutions that drive business growth. I've successfully completed projects for **10+ companies** across multiple countries and earned **$1K+ on Upwork** with a perfect **5.0⭐ rating**.
+With **2+ years of professional experience** specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), I deliver high-quality solutions that drive business growth. I've successfully completed projects for **10+ companies** across multiple countries and earned **$1K+ on Upwork** with a perfect **5.0⭐ rating**.
 
 🎥 **YouTube Content Creator** sharing knowledge with developers worldwide  
 💼 **Full-Stack Developer** at SellAnyBiz (Product-based company, Dubai)  
