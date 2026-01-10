@@ -1,4 +1,4 @@
-<!-- 
+<!--
 Maroof Qureshi - Full Stack Web Developer | MERN Stack Expert
 Specializing in React.js, Next.js, Node.js, MongoDB, TypeScript, Tailwind CSS
 Upwork Rising Talent | 5.0 Star Rating | YouTube Content Creator
@@ -172,7 +172,7 @@ With **2+ years of professional experience** specializing in the **MERN stack** 
 
 ### 🎥 **YouTube Content Creator**
 
-I share my knowledge and help others learn web development on my YouTube channel! 
+I share my knowledge and help others learn web development on my YouTube channel!
 
 [![YouTube Channel](https://img.shields.io/badge/Subscribe-Developer_Maroof-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@developermaroof_official)
 
@@ -304,8 +304,7 @@ Built a production-ready video calling platform similar to Google Meet with real
 | 🏢 Company        | 📍 Location         | 💼 Role              | 📅 Duration         | 🔥 Status    |
 | ----------------- | ------------------- | -------------------- | ------------------- | ------------ |
 | **SellAnyBiz**    | Dubai, UAE          | Full-Stack Developer | Dec 2025 - Present  | 🟢 Current   |
-| **Upwork**        | Remote              | Freelance Developer  | Sep 2025 - Present  | 🟢 Current   |
-| **HuboWeb**       | Lahore, Pakistan    | Frontend Developer   | Jun 2025 - Present  | 🟢 Current   |
+| **HuboWeb**       | Lahore, Pakistan    | Frontend Developer   | Jun 2025 - Jan 2026 | ✅ Completed |
 | **Devnito**       | Dubai, UAE          | Full-Stack Developer | Feb 2025 – Aug 2025 | ✅ Completed |
 | **Devnito**       | Dubai, UAE          | Frontend Developer   | Feb 2024 – Feb 2025 | ✅ Completed |
 | **IIT Solutions** | Hyderabad, Pakistan | Web Developer        | Apr – Jun 2024      | ✅ Completed |
@@ -333,9 +332,21 @@ Built a production-ready video calling platform similar to Google Meet with real
 ```javascript
 const currentlyLearning = {
   advanced: ["Microservices Architecture", "Kubernetes", "CI/CD Pipelines"],
-  exploring: ["Web3 Development", "AI Integration", "GraphQL Advanced Patterns"],
-  improving: ["System Design", "Cloud Architecture (AWS/Azure)", "Performance Optimization"],
-  nextGoals: ["Contributing to Open Source", "Building SaaS Products", "Tech Leadership"]
+  exploring: [
+    "Web3 Development",
+    "AI Integration",
+    "GraphQL Advanced Patterns",
+  ],
+  improving: [
+    "System Design",
+    "Cloud Architecture (AWS/Azure)",
+    "Performance Optimization",
+  ],
+  nextGoals: [
+    "Contributing to Open Source",
+    "Building SaaS Products",
+    "Tech Leadership",
+  ],
 };
 ```
 
@@ -543,6 +554,7 @@ const database = [
 <td width="50%" align="center">
 
 ### 🎥 Video Calling Platform
+
 **Production-Ready Google Meet Clone**
 
 Real-time video conferencing application with WebRTC
@@ -556,6 +568,7 @@ Real-time video conferencing application with WebRTC
 <td width="50%" align="center">
 
 ### 🛒 E-Commerce Solutions
+
 **Enterprise-level Online Stores**
 
 Full-featured e-commerce platforms with payment integration
@@ -571,6 +584,7 @@ Full-featured e-commerce platforms with payment integration
 <td width="50%" align="center">
 
 ### 📱 Full-Stack Web Apps
+
 **MERN Stack Applications**
 
 Scalable SaaS products with modern architecture
@@ -584,6 +598,7 @@ Scalable SaaS products with modern architecture
 <td width="50%" align="center">
 
 ### 🎓 Educational Content
+
 **YouTube Coding Tutorials**
 
 Teaching web development to thousands
@@ -671,7 +686,7 @@ const maroof = {
   interests: ["Teaching", "Open Source", "Building in Public"],
   favoriteStack: "Next.js + TypeScript + Tailwind + Supabase",
   coffeePerDay: "☕☕☕ (lots!)",
-  funFact: "I debug with console.log() and I'm not ashamed! 🤓"
+  funFact: "I debug with console.log() and I'm not ashamed! 🤓",
 };
 ```
 
