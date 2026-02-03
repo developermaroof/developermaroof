@@ -4,7 +4,7 @@ Specializing in React.js, Next.js, Node.js, MongoDB, TypeScript, Tailwind CSS
 Upwork Rising Talent | 5.0 Star Rating | YouTube Content Creator
 Available for Freelance Projects | 2+ Years Experience
 Location: Hyderabad, Pakistan | Remote Work | Full-Stack Development
-Skills: JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Redux, Docker, AWS
+Skills: JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, Redux, Docker, AWS, TensorFlow, BlazeFace, Cloudflare
 -->
 
 <div align="center">
@@ -333,8 +333,11 @@ Built a production-ready video calling platform similar to Google Meet with real
 const currentlyLearning = {
   advanced: ["Microservices Architecture", "Kubernetes", "CI/CD Pipelines"],
   exploring: [
+    "TensorFlow.js",
+    "BlazeFace (Face Detection)",
+    "Cloudflare (Workers, CDN, DNS)",
     "Web3 Development",
-    "AI Integration",
+    "AI/ML Integration",
     "GraphQL Advanced Patterns",
   ],
   improving: [
@@ -424,6 +427,7 @@ const database = [
   "Sanity.io",
   "Docker",
   "Vercel",
+  "Cloudflare",
 ];
 ```
 
@@ -504,10 +508,18 @@ const database = [
 
 <br><br>
 
+### 🤖 AI / ML (Learning & Building)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow - Machine Learning" width="50" height="50" title="TensorFlow / TensorFlow.js" />&nbsp;
+<img src="https://img.shields.io/badge/BlazeFace-Face_Detection-4285F4?style=for-the-badge&logo=google" alt="BlazeFace - Real-time Face Detection (MediaPipe)" height="50" title="BlazeFace / MediaPipe" />
+
+<br><br>
+
 ### 🚀 Deployment & Hosting
 
 <img src="/skills/netlify.png" alt="Netlify" width="100" height="50" title="Netlify" />&nbsp;
 <img src="https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo-thumbnail.png" alt="Vercel" width="50" height="50" title="Vercel" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare - CDN, Workers, DNS" width="50" height="50" title="Cloudflare" />&nbsp;
 <img src="/skills/canva.svg" alt="Canva" width="50" height="50" title="Canva" />
 
 </div>
