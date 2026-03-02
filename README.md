@@ -1,7 +1,8 @@
 <!--
-Maroof Qureshi — Full-Stack Developer | MERN Stack | React | Next.js | Node.js | TypeScript
+Maroof Qureshi — Full-Stack Developer | Senior Sanity Developer
+React | Next.js | Node.js | TypeScript | Sanity CMS | MERN Stack
+ClickShare Media Ventures (Singapore) | SellAnyBiz (Dubai)
 Upwork Rising Talent | 5.0 Star Rating | YouTube Content Creator
-Available for Freelance & Contract Work | 2+ Years Professional Experience
 Portfolio: https://developermaroof.com | Based in Hyderabad, Pakistan
 -->
 
@@ -14,7 +15,7 @@ Portfolio: https://developermaroof.com | Based in Hyderabad, Pakistan
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%7C+MERN+Expert;Building+Scalable+Web+Solutions;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Senior+Sanity+Dev;Building+Scalable+Web+Solutions;React+%7C+Next.js+%7C+Node.js+%7C+Sanity+CMS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,9 +38,9 @@ Portfolio: https://developermaroof.com | Based in Hyderabad, Pakistan
 
 ## About
 
-Full-Stack Developer based in **Hyderabad, Pakistan** with **2+ years of professional experience** building high-performance web applications. Currently working as a **Full-Stack Developer at SellAnyBiz** (Dubai) while freelancing on **Upwork** with a perfect **5.0-star rating** and **Rising Talent** badge.
+Full-Stack Developer based in **Hyderabad, Pakistan** with **2+ years of professional experience** building high-performance web applications. Currently a **Senior Sanity Developer at ClickShare Media Ventures** (Singapore) and **Full-Stack Developer at SellAnyBiz** (Dubai), while freelancing on **Upwork** with a perfect **5.0-star rating** and **Rising Talent** badge.
 
-I specialize in the **MERN stack** and modern web technologies — delivering production-grade solutions for companies across **5+ countries**. I also create coding tutorials on [YouTube](https://www.youtube.com/@developermaroof_official) to help developers level up.
+I specialize in the **MERN stack**, **headless CMS architecture**, and modern web technologies — delivering production-grade solutions for companies across **5+ countries**. I also create coding tutorials on [YouTube](https://www.youtube.com/@developermaroof_official) to help developers level up.
 
 <br>
 
@@ -97,6 +98,7 @@ I specialize in the **MERN stack** and modern web technologies — delivering pr
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=fff)
+![GROQ](https://img.shields.io/badge/GROQ-F03E2F?style=flat-square&logo=sanity&logoColor=fff)
 
 **Auth & Security**
 
@@ -129,6 +131,7 @@ I specialize in the **MERN stack** and modern web technologies — delivering pr
 
 | Company | Role | Location | Period |
 |:--------|:-----|:---------|:-------|
+| **ClickShare Media Ventures** | Senior Sanity Developer | Singapore | Jan 2026 — Present |
 | **SellAnyBiz** | Full-Stack Developer | Dubai, UAE | Dec 2025 — Present |
 | **HuboWeb** | Frontend Developer | Lahore, PK | Jun 2025 — Jan 2026 |
 | **Devnito** | Frontend → Full-Stack Developer | Dubai, UAE | Feb 2024 — Aug 2025 |
@@ -162,13 +165,13 @@ Production-ready Google Meet alternative with real-time WebRTC video conferencin
 </td>
 <td width="50%">
 
-### SellAnyBiz Platform
+### ClickShare Media Ventures
 
-Enterprise business marketplace built with modern full-stack architecture for the Dubai market.
+Headless CMS architecture and content platform for a Singapore-based media company.
 
-`Next.js` `TypeScript` `Node.js` `MongoDB` `Docker`
+`Sanity` `GROQ` `Next.js` `TypeScript` `React`
 
-**Current role** — designing and building scalable product solutions with microservices architecture.
+**Senior Sanity Developer** — leading CMS architecture, content modeling, and frontend integration.
 
 [![Portfolio](https://img.shields.io/badge/View_All_Projects-58A6FF?style=flat-square&logo=googlechrome&logoColor=fff)](https://www.developermaroof.com)
 
