@@ -2,7 +2,7 @@
 Maroof Qureshi — Full-Stack Developer | Senior Sanity Developer
 React | Next.js | Node.js | TypeScript | Sanity CMS | MERN Stack
 ClickShare Media Ventures (Singapore) | SellAnyBiz (Dubai)
-Upwork Rising Talent | 5.0 Star Rating | YouTube Content Creator
+Upwork Top Rated | 100% Job Success | 5.0 Star Rating | YouTube Content Creator
 Portfolio: https://developermaroof.com | Based in Hyderabad, Pakistan
 -->
 
@@ -20,7 +20,7 @@ Portfolio: https://developermaroof.com | Based in Hyderabad, Pakistan
 
 <p align="center">
   <a href="https://www.developermaroof.com"><img src="https://img.shields.io/badge/developermaroof.com-000?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>&nbsp;
-  <a href="https://www.upwork.com/freelancers/developermaroof"><img src="https://img.shields.io/badge/Upwork-Rising_Talent-000?style=for-the-badge&logo=upwork&logoColor=6fda44" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/developermaroof"><img src="https://img.shields.io/badge/Upwork-Top_Rated-000?style=for-the-badge&logo=upwork&logoColor=6fda44" /></a>&nbsp;
   <a href="https://www.youtube.com/@developermaroof_official"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
 </p>
 
@@ -38,17 +38,17 @@ Portfolio: https://developermaroof.com | Based in Hyderabad, Pakistan
 
 ## About
 
-Full-Stack Developer based in **Hyderabad, Pakistan** with **2+ years of professional experience** building high-performance web applications. Currently a **Senior Sanity Developer at ClickShare Media Ventures** (Singapore) and **Full-Stack Developer at SellAnyBiz** (Dubai), while freelancing on **Upwork** with a perfect **5.0-star rating** and **Rising Talent** badge.
+Full-Stack Developer based in **Hyderabad, Pakistan** with **2+ years of professional experience** building high-performance web applications. Currently a **Senior Sanity Developer at ClickShare Media Ventures** (Singapore) and **Full-Stack Developer at SellAnyBiz** (Dubai), while freelancing on **Upwork** as a **Top Rated** talent with **100% Job Success** and a perfect **5.0-star rating**.
 
-I specialize in the **MERN stack**, **headless CMS architecture**, and modern web technologies — delivering production-grade solutions for companies across **5+ countries**. I also create coding tutorials on [YouTube](https://www.youtube.com/@developermaroof_official) to help developers level up.
+I specialize in the **MERN stack**, **headless CMS architecture**, and modern web technologies — delivering production-grade solutions for companies across **5+ countries**. Right now, I am running **2 active Upwork projects**: **Development & IT Consultation** and **Senior Sanity Developer** engagements. I also create coding tutorials on [YouTube](https://www.youtube.com/@developermaroof_official) to help developers level up.
 
 <br>
 
 <div align="center">
 
-| Projects Delivered | Companies Served | Upwork Rating | Upwork Earned | Countries |
-|:------------------:|:----------------:|:-------------:|:-------------:|:---------:|
-| **50+** | **10+** | **5.0** | **$1K+** | **5+** |
+| Projects Delivered | Companies Served | Job Success | Upwork Rating | Upwork Earned | Active Upwork Projects |
+|:------------------:|:----------------:|:-----------:|:-------------:|:-------------:|:----------------------:|
+| **50+** | **10+** | **100%** | **5.0** | **$1K+** | **2** |
 
 </div>
 
@@ -161,6 +161,8 @@ Production-ready Google Meet alternative with real-time WebRTC video conferencin
 
 > *"Maroof did exceptional work building our video calling web app. Outstanding expertise and great team player who delivered quality work on time."*
 > — **Linden May**, Upwork Client
+
+**Now active on Upwork:** Development & IT Consultation.
 
 </td>
 <td width="50%">
