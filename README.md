@@ -1,237 +1,149 @@
 <!--
-Maroof Qureshi — Full-Stack Developer | Senior Sanity Developer
-React | Next.js | Node.js | TypeScript | Sanity CMS | MERN Stack
-ClickShare Media Ventures (Singapore) | SellAnyBiz (Dubai)
-Upwork Top Rated | 100% Job Success | 5.0 Star Rating | YouTube Content Creator
-Portfolio: https://developermaroof.com | Based in Hyderabad, Pakistan
+Maroof Qureshi — Full-Stack Developer
+Next.js | TypeScript | Node.js | PostgreSQL / Supabase | Redis | AI Integrations
+Upwork Top Rated | Based in Hyderabad, Pakistan | Open to remote international opportunities
+Portfolio: https://www.developermaroof.com
 -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maroof%20Qureshi&fontSize=44&fontAlignY=36&fontColor=ffffff&animation=fadeIn" width="100%" />
-</div>
 
 <div align="center">
   <img src="/banner.png" alt="Maroof Qureshi — Full-Stack Developer" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Senior+Sanity+Dev;Building+Scalable+Web+Solutions;React+%7C+Next.js+%7C+Node.js+%7C+Sanity+CMS" alt="Typing SVG" />
-</p>
+<h3 align="center">Full-Stack Developer &nbsp;|&nbsp; Next.js, TypeScript, Node.js &nbsp;|&nbsp; AI Integrations</h3>
 
 <p align="center">
-  <a href="https://www.developermaroof.com"><img src="https://img.shields.io/badge/developermaroof.com-000?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" /></a>&nbsp;
-  <a href="https://www.upwork.com/freelancers/developermaroof"><img src="https://img.shields.io/badge/Upwork-Top_Rated-000?style=for-the-badge&logo=upwork&logoColor=6fda44" /></a>&nbsp;
-  <a href="https://www.youtube.com/@developermaroof_official"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
+  <a href="https://www.developermaroof.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=58A6FF" /></a>&nbsp;
+  <a href="https://linkedin.com/in/developermaroof"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" /></a>&nbsp;
+  <a href="mailto:maroof@developermaroof.com"><img alt="Email" src="https://img.shields.io/badge/Email-000?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" /></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/developermaroof"><img alt="Upwork Top Rated" src="https://img.shields.io/badge/Upwork-Top_Rated-000?style=for-the-badge&amp;logo=upwork&amp;logoColor=6fda44&amp;labelColor=000" /></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/developermaroof"><img src="https://img.shields.io/github/followers/developermaroof?label=Follow&style=flat-square&logo=github&color=181717" /></a>&nbsp;
-  <a href="https://linkedin.com/in/developermaroof"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:maroof@developermaroof.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://wa.me/923138320823"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=developermaroof&color=58A6FF&style=flat-square&label=Profile+Views" />
-</p>
-
-<br>
-
----
 
 ## About
 
-Full-Stack Developer based in **Hyderabad, Pakistan** with **2+ years of professional experience** building high-performance web applications. Currently a **Senior Sanity Developer at ClickShare Media Ventures** (Singapore) and **Full-Stack Developer at SellAnyBiz** (Dubai), while freelancing on **Upwork** as a **Top Rated** talent with **100% Job Success** and a perfect **5.0-star rating**.
+I'm a Full-Stack Developer working with **Next.js, TypeScript, Node.js, PostgreSQL/Supabase, Redis**, and **AI integrations**. I build and maintain production SaaS, marketplace, CMS, and real-time applications for international teams. My work spans frontend architecture, backend APIs, authentication and authorization, databases, caching, production debugging, performance optimization, and AI-assisted workflows.
 
-I specialize in the **MERN stack**, **headless CMS architecture**, and modern web technologies — delivering production-grade solutions for companies across **5+ countries**. Right now, I am running **2 active Upwork projects**: **Development & IT Consultation** and **Senior Sanity Developer** engagements. I also create coding tutorials on [YouTube](https://www.youtube.com/@developermaroof_official) to help developers level up.
+Based in **Hyderabad, Pakistan** and open to **remote international opportunities** as a Full-Stack Developer or Software Engineer. Upwork Top Rated freelancer with a 5-star track record.
 
-<br>
+## Core Expertise
 
-<div align="center">
-
-| Projects Delivered | Companies Served | Job Success | Upwork Rating | Upwork Earned | Active Upwork Projects |
-|:------------------:|:----------------:|:-----------:|:-------------:|:-------------:|:----------------------:|
-| **50+** | **10+** | **100%** | **5.0** | **$1K+** | **2** |
-
-</div>
-
-<br>
-
----
+- **Full-stack SaaS & marketplace development**
+- **Next.js / React product engineering**
+- **Node.js APIs and backend integrations**
+- **PostgreSQL / Supabase data architecture**
+- **Authentication & authorization**
+- **Redis caching and background processing**
+- **Real-time / WebSocket applications**
+- **Headless CMS architecture** (Sanity / GROQ)
+- **AI / LLM integrations**, tool calling, and agentic workflows
+- **Production debugging & performance optimization**
 
 ## Tech Stack
 
-<div align="center">
+| Area | Technologies |
+|:-----|:-------------|
+| **Languages** | `JavaScript` `TypeScript` `HTML/CSS` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` `shadcn/ui` `TanStack Query` `Zustand` |
+| **Backend** | `Node.js` `Express` `ElysiaJS` `Bun` `REST APIs` `WebSocket` |
+| **Data** | `PostgreSQL` `Supabase` `Redis` `MongoDB` |
+| **AI** | `LLM integrations` `AI APIs` `Tool calling` `Agentic workflows` |
+| **Testing** | `Vitest` `Jest` `React Testing Library` `Playwright` |
+| **Infrastructure** | `Docker` `AWS` `Vercel` `Cloudflare` `Git / GitHub` |
+| **CMS / Platforms** | `Sanity CMS` `GROQ` `WordPress` `Elementor Pro` |
 
-**Languages**
+## Professional Experience
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+| Company | Role | Period |
+|:--------|:-----|:-------|
+| **SellAnyBiz**<br>Dubai, UAE | Full-Stack Developer | Dec 2025 – Present |
+| **ClickShare Media Ventures**<br>Singapore | Senior Sanity Developer | Jan 2026 – Present |
+| **961 News**<br>Lebanon | Senior Software Engineer | Apr 2026 – Jul 2026 |
+| **HuboWeb Technologies**<br>Lahore, Pakistan | Frontend Developer | Jun 2025 – Jan 2026 |
+| **Devnito**<br>Dubai, UAE | Frontend → Full-Stack Developer | Feb 2024 – Aug 2025 |
+| **Upwork**<br>Remote | Freelance Full-Stack Developer | Jul 2025 – Present |
 
-**Frontend**
+## Selected Professional Work
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=fff)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=fff)
+### SellAnyBiz — AI-enabled business marketplace
 
-**Styling & UI**
+An AI-powered marketplace for business buyers, sellers, brokers, and professional advisors.
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=fff)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=fff)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=fff)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=fff)
+**Stack:** `Next.js` `TypeScript` `PostgreSQL / Supabase` `Redis` `Tailwind CSS` `shadcn/ui` `AI integrations`
 
-**Backend**
+**Areas of work**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=fff)
+- Listings and the listing builder
+- Secure data rooms
+- Document and report generation workflows
+- Real-time communication
+- Authentication, authorization, and caching
+- AI-assisted workflows, including tool-calling and agentic features
+- Production debugging, performance work, and UI/UX improvements
 
-**Database & BaaS**
+### 961 News — Media and news platform engineering
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=fff)
-![GROQ](https://img.shields.io/badge/GROQ-F03E2F?style=flat-square&logo=sanity&logoColor=fff)
+Full-stack engineering on a news platform as Senior Software Engineer.
 
-**Auth & Security**
+**Technologies:** `PostgreSQL` `MongoDB` `AWS CloudFront` `Cloudflare`
 
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=fff)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square&logoColor=fff)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000?style=flat-square&logo=next.js&logoColor=fff)
+**Areas of work**
 
-**DevOps & Cloud**
+- Frontend and backend development
+- Breaking News and dashboard work
+- Involvement in the MongoDB-to-PostgreSQL migration
+- Performance and infrastructure work involving AWS CloudFront and Cloudflare
+- Production debugging
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+### ClickShare Media Ventures — CMS and client website development
 
-**AI / ML**
+As Senior Sanity Developer, built and maintained production client websites using Sanity CMS and WordPress, including two clinic websites developed with WordPress and Elementor Pro.
 
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)
-![BlazeFace](https://img.shields.io/badge/BlazeFace-4285F4?style=flat-square&logo=google&logoColor=fff)
+**Stack:** `Next.js` `TypeScript` `Sanity CMS` `GROQ` `WordPress` `Elementor Pro`
 
-</div>
+**Areas of work**
 
-<br>
+- Sanity CMS and Next.js client websites
+- Two clinic websites built and deployed with WordPress and Elementor Pro
+- Responsive frontend implementation
+- CMS configuration and content integration
+- Troubleshooting and production deployment
 
----
+### Upwork — International client work
 
-## Experience
+Production web applications for international clients as a Top Rated freelancer.
 
-<div align="center">
+**Areas of work**
 
-| Company | Role | Location | Period |
-|:--------|:-----|:---------|:-------|
-| **ClickShare Media Ventures** | Senior Sanity Developer | Singapore | Jan 2026 — Present |
-| **SellAnyBiz** | Full-Stack Developer | Dubai, UAE | Dec 2025 — Present |
-| **HuboWeb** | Frontend Developer | Lahore, PK | Jun 2025 — Jan 2026 |
-| **Devnito** | Frontend → Full-Stack Developer | Dubai, UAE | Feb 2024 — Aug 2025 |
-| **Fondi Inc** | Community & Sales | Tokyo, JP | Jul — Oct 2024 |
-| **IIT Solutions** | Web Developer | Hyderabad, PK | Apr — Jun 2024 |
-| **Skill Genie** | Web Developer | Bangalore, IN | Mar — May 2024 |
+- Building and maintaining production web applications
+- Ongoing maintenance and debugging
+- CMS work
+- Direct collaboration with international clients
 
-</div>
-
-<br>
-
----
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### Video Calling Platform
-
-Production-ready Google Meet alternative with real-time WebRTC video conferencing.
+**Example: real-time video calling platform.** A production real-time video conferencing application built with WebRTC. 5-star rated engagement.
 
 `JavaScript` `Tailwind CSS` `AWS` `WebRTC`
 
-**$1,428 earned** &middot; **5.0 star rating** &middot; **305 hours**
-
 > *"Maroof did exceptional work building our video calling web app. Outstanding expertise and great team player who delivered quality work on time."*
+>
 > — **Linden May**, Upwork Client
 
-**Now active on Upwork:** Development & IT Consultation.
+<sub>Most production work is maintained in private client/company repositories; selected implementation details and case studies are available through my portfolio. Client names and links are omitted where confidentiality applies.</sub>
 
-</td>
-<td width="50%">
+## GitHub
 
-### ClickShare Media Ventures
+<img alt="Most used languages across my public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermaroof&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58A6FF&amp;text_color=c9d1d9" height="150" />
 
-Headless CMS architecture and content platform for a Singapore-based media company.
-
-`Sanity` `GROQ` `Next.js` `TypeScript` `React`
-
-**Senior Sanity Developer** — leading CMS architecture, content modeling, and frontend integration.
-
-[![Portfolio](https://img.shields.io/badge/View_All_Projects-58A6FF?style=flat-square&logo=googlechrome&logoColor=fff)](https://www.developermaroof.com)
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developermaroof&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170" />
-  <img src="https://streak-stats.demolab.com?user=developermaroof&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=30363d" height="170" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermaroof&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="150" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developermaroof&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58A6FF&point=58A6FF&area_color=1a2744&area=true" width="98%" />
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/developermaroof/developermaroof/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/developermaroof/developermaroof/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/developermaroof/developermaroof/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br>
+<sub>Language breakdown covers public repositories only.</sub>
 
 ---
 
 <div align="center">
-  <br>
-  
-  **Let's build something great together.**
-  
-  <br>
-  
-  <a href="https://www.developermaroof.com"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=fff" /></a>&nbsp;
-  <a href="https://www.upwork.com/freelancers/developermaroof"><img src="https://img.shields.io/badge/Hire_Me-6fda44?style=for-the-badge&logo=upwork&logoColor=fff" /></a>&nbsp;
-  <a href="https://linkedin.com/in/developermaroof"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>&nbsp;
-  <a href="https://www.youtube.com/@developermaroof_official"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=fff" /></a>&nbsp;
-  <a href="mailto:maroof@developermaroof.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+**Open to remote Full-Stack Developer and Software Engineer opportunities.**
+
+[Portfolio](https://www.developermaroof.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/developermaroof) &nbsp;·&nbsp; [Upwork](https://www.upwork.com/freelancers/developermaroof) &nbsp;·&nbsp; [Email](mailto:maroof@developermaroof.com) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@developermaroof_official)
+
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=developermaroof&amp;color=58A6FF&amp;style=flat-square&amp;label=Profile+Views" />
+
+<img alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" />
+
 </div>
