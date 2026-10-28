@@ -121,6 +121,32 @@ As Senior Sanity Developer, built and maintained production client websites usin
 >
 > — **Dowan Kim**, CEO, ClickShare Media Ventures (Upwork review)
 
+### HuboWeb Technologies — Frontend development and team support
+
+Frontend Developer at HuboWeb, building client and internal web apps with Next.js and TypeScript, and supporting the junior developers on the team.
+
+**Stack:** `React` `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Framer Motion` `Zustand`
+
+**Areas of work**
+
+- Trounce, an AI social media scheduling platform
+- HuboWeb's company website
+- An internal management tool for developer check-ins
+- The Wonhost Telecommunications call-center website
+- Leading junior developers and advising on backend work
+
+### Devnito — Frontend to full-stack development
+
+Joined as a Frontend Developer in February 2024 and was promoted to Full-Stack Developer in February 2025.
+
+**Stack:** `React` `JavaScript` `Node.js` `Tailwind CSS` `Firebase` `Cloudinary`
+
+**Areas of work**
+
+- Tailor Tap, a trilingual tailoring and measurement app
+- Several versions of Devnito's own website, plus many other websites
+- Frontend, APIs, authentication and deployment
+
 ### Upwork — International client work
 
 Production web applications for international clients as a Top Rated freelancer.
