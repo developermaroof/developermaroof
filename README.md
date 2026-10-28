@@ -135,6 +135,10 @@ Frontend Developer at HuboWeb, building client and internal web apps with Next.j
 - The Wonhost Telecommunications call-center website
 - Leading junior developers and advising on backend work
 
+> *"What I particularly appreciated was his ability to collaborate with backend development, understand data contracts, and proactively suggest improvements to UI flows and performance."*
+>
+> — **Akhtar Abbas**, Team Lead, HuboWeb Technologies (LinkedIn recommendation)
+
 ### Devnito — Frontend to full-stack development
 
 Joined as a Frontend Developer in February 2024 and was promoted to Full-Stack Developer in February 2025.
@@ -146,6 +150,10 @@ Joined as a Frontend Developer in February 2024 and was promoted to Full-Stack D
 - Tailor Tap, a trilingual tailoring and measurement app
 - Several versions of Devnito's own website, plus many other websites
 - Frontend, APIs, authentication and deployment
+
+> *"What stood out most about Maroof was his ability to pick up new concepts quickly and his proactive attitude toward problem-solving. He's reliable, communicates effectively, and always brings a positive energy to the team."*
+>
+> — **Junaid Qureshi**, CEO, Devnito (LinkedIn recommendation)
 
 ### Upwork — International client work
 
@@ -167,20 +175,6 @@ Production web applications for international clients as a Top Rated freelancer.
 > — **Linden May**, Upwork Client
 
 <sub>Most production work is maintained in private client/company repositories; selected implementation details and case studies are available through my portfolio. Client names and links are omitted where confidentiality applies.</sub>
-
-## Recommendations
-
-> *"What I particularly appreciated was his ability to collaborate with backend development, understand data contracts, and proactively suggest improvements to UI flows and performance."*
->
-> — **Akhtar Abbas**, Team Lead, HuboWeb Technologies (LinkedIn recommendation)
-
-> *"What stood out most about Maroof was his ability to pick up new concepts quickly and his proactive attitude toward problem-solving. He's reliable, communicates effectively, and always brings a positive energy to the team."*
->
-> — **Junaid Qureshi**, CEO, Devnito (LinkedIn recommendation)
-
-> *"He excelled in building strong relationships with potential users through excellent communication."*
->
-> — **Tatsuto Nohara**, CEO, fondi Inc. (LinkedIn recommendation)
 
 ## Open Source
 
