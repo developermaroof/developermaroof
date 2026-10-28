@@ -99,6 +99,10 @@ Full-stack engineering on a news platform as Senior Software Engineer.
 - Performance and infrastructure work involving AWS CloudFront and Cloudflare
 - Production debugging
 
+> *"Maroof is great to work with, very patient and responsive. You feel he is part of the in-house team, giving ideas and suggestions."*
+>
+> — **Anthony Kantara**, CEO, 961 News (Upwork review)
+
 ### ClickShare Media Ventures — CMS and client website development
 
 As Senior Sanity Developer, built and maintained production client websites using Sanity CMS and WordPress, including two clinic websites developed with WordPress and Elementor Pro.
@@ -112,6 +116,10 @@ As Senior Sanity Developer, built and maintained production client websites usin
 - Responsive frontend implementation
 - CMS configuration and content integration
 - Troubleshooting and production deployment
+
+> *"Very reliable, consistent with his communication and follow through. I'd highly recommend hiring Maroof!"*
+>
+> — **Dowan Kim**, CEO, ClickShare Media Ventures (Upwork review)
 
 ### Upwork — International client work
 
@@ -133,6 +141,20 @@ Production web applications for international clients as a Top Rated freelancer.
 > — **Linden May**, Upwork Client
 
 <sub>Most production work is maintained in private client/company repositories; selected implementation details and case studies are available through my portfolio. Client names and links are omitted where confidentiality applies.</sub>
+
+## Recommendations
+
+> *"What I particularly appreciated was his ability to collaborate with backend development, understand data contracts, and proactively suggest improvements to UI flows and performance."*
+>
+> — **Akhtar Abbas**, Team Lead, HuboWeb Technologies (LinkedIn recommendation)
+
+> *"What stood out most about Maroof was his ability to pick up new concepts quickly and his proactive attitude toward problem-solving. He's reliable, communicates effectively, and always brings a positive energy to the team."*
+>
+> — **Junaid Qureshi**, CEO, Devnito (LinkedIn recommendation)
+
+> *"He excelled in building strong relationships with potential users through excellent communication."*
+>
+> — **Tatsuto Nohara**, CEO, fondi Inc. (LinkedIn recommendation)
 
 ## Open Source
 
