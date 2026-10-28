@@ -20,9 +20,9 @@ Portfolio: https://www.developermaroof.com
 
 ## About
 
-I'm a Full-Stack Developer working with **Next.js, TypeScript, Node.js, PostgreSQL/Supabase, Redis**, and **AI integrations**. I build and maintain production SaaS, marketplace, CMS, and real-time applications for international teams. My work spans frontend architecture, backend APIs, authentication and authorization, databases, caching, production debugging, performance optimization, and AI-assisted workflows.
+I'm a Full-Stack Developer with 3 years of experience working with **Next.js, TypeScript, Node.js, PostgreSQL/Supabase, Redis**, and **AI integrations**. I build and maintain production SaaS, marketplace, CMS, and real-time applications for international teams. My work spans frontend architecture, backend APIs, authentication and authorization, databases, caching, production debugging, performance optimization, and AI-assisted workflows.
 
-Based in **Hyderabad, Pakistan** and open to **remote international opportunities** as a Full-Stack Developer or Software Engineer. Upwork Top Rated freelancer with a 5-star track record.
+Based in **Hyderabad, Pakistan** and open to **remote international opportunities** as a Full-Stack Developer or Software Engineer. Upwork Top Rated freelancer with 100% Job Success and 5-star client reviews.
 
 ## Core Expertise
 
@@ -34,7 +34,7 @@ Based in **Hyderabad, Pakistan** and open to **remote international opportunitie
 - **Redis caching and background processing**
 - **Real-time / WebSocket applications**
 - **Headless CMS architecture** (Sanity / GROQ)
-- **AI / LLM integrations**, tool calling, and agentic workflows
+- **AI / LLM integrations**, tool calling, agentic workflows, and **MCP servers**
 - **Production debugging & performance optimization**
 
 ## Tech Stack
@@ -45,7 +45,7 @@ Based in **Hyderabad, Pakistan** and open to **remote international opportunitie
 | **Frontend** | `React` `Next.js` `Tailwind CSS` `shadcn/ui` `TanStack Query` `Zustand` |
 | **Backend** | `Node.js` `Express` `ElysiaJS` `Bun` `REST APIs` `WebSocket` |
 | **Data** | `PostgreSQL` `Supabase` `Redis` `MongoDB` |
-| **AI** | `LLM integrations` `AI APIs` `Tool calling` `Agentic workflows` |
+| **AI** | `LLM integrations` `OpenAI API` `Tool calling` `Agentic workflows` `MCP (Model Context Protocol)` `Claude Code` |
 | **Testing** | `Vitest` `Jest` `React Testing Library` `Playwright` |
 | **Infrastructure** | `Docker` `AWS` `Vercel` `Cloudflare` `Git / GitHub` |
 | **CMS / Platforms** | `Sanity CMS` `GROQ` `WordPress` `Elementor Pro` |
@@ -54,7 +54,7 @@ Based in **Hyderabad, Pakistan** and open to **remote international opportunitie
 
 | Company | Role | Period |
 |:--------|:-----|:-------|
-| **SellAnyBiz**<br>Dubai, UAE | Full-Stack Developer | Dec 2025 – Present |
+| **SellAnyBiz**<br>Dubai, UAE | Full-Stack Developer | Dec 2025 – Oct 2026 |
 | **ClickShare Media Ventures**<br>Singapore | Senior Sanity Developer | Jan 2026 – Present |
 | **961 News**<br>Lebanon | Senior Software Engineer | Apr 2026 – Jul 2026 |
 | **HuboWeb Technologies**<br>Lahore, Pakistan | Frontend Developer | Jun 2025 – Jan 2026 |
@@ -73,11 +73,17 @@ An AI-powered marketplace for business buyers, sellers, brokers, and professiona
 
 - Listings and the listing builder
 - Secure data rooms
-- Document and report generation workflows
+- Collaborative Document Builder and report generation workflows
 - Real-time communication
+- Stripe payments and subscription plans
+- WhatsApp API integration, with inbound and outbound messages tied to in-platform conversations
 - Authentication, authorization, and caching
 - AI-assisted workflows, including tool-calling and agentic features
 - Production debugging, performance work, and UI/UX improvements
+
+> *"Very trustworthy and hardworking."*
+>
+> — **Tahir Javed Kashif**, Founder, SellAnyBiz (LinkedIn recommendation)
 
 ### 961 News — Media and news platform engineering
 
@@ -127,6 +133,20 @@ Production web applications for international clients as a Top Rated freelancer.
 > — **Linden May**, Upwork Client
 
 <sub>Most production work is maintained in private client/company repositories; selected implementation details and case studies are available through my portfolio. Client names and links are omitted where confidentiality applies.</sub>
+
+## Open Source
+
+### Job Tracker MCP Server
+
+An MCP (Model Context Protocol) server that lets Claude track job applications. Claude Desktop runs it as a local process over stdio (JSON-RPC) and uses 4 tools to add, list, update and follow up on applications.
+
+**Stack:** `TypeScript` `Node.js` `MCP SDK` `zod`
+
+- zod validation on every input, including real-date checks
+- Lists capped at the newest 20 results to keep tool replies small
+- Data stored in a local JSON file, kept out of git
+
+[View repository →](https://github.com/developermaroof/mcp-job-tracker)
 
 ## GitHub
 
