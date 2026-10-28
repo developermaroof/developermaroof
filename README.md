@@ -103,19 +103,20 @@ Full-stack engineering on a news platform as Senior Software Engineer.
 >
 > — **Anthony Kantara**, CEO, 961 News (Upwork review)
 
-### ClickShare Media Ventures — CMS and client website development
+### ClickShare Media Ventures — CMS, websites and marketing tracking
 
-As Senior Sanity Developer, built and maintained production client websites using Sanity CMS and WordPress, including two clinic websites developed with WordPress and Elementor Pro.
+Ongoing work as Senior Sanity Developer, building and maintaining websites for ClickShare Media Ventures and its clients, and working directly with their teams.
 
-**Stack:** `Next.js` `TypeScript` `Sanity CMS` `GROQ` `WordPress` `Elementor Pro`
+**Stack:** `Next.js` `TypeScript` `Sanity CMS` `GROQ` `WordPress` `Elementor Pro` `Meta Pixel` `Google Sheets` `Looker Studio`
 
 **Areas of work**
 
-- Sanity CMS and Next.js client websites
-- Two clinic websites built and deployed with WordPress and Elementor Pro
-- Responsive frontend implementation
-- CMS configuration and content integration
-- Troubleshooting and production deployment
+- Sanity CMS schema updates and content integration
+- 2+ Next.js client websites
+- 3+ WordPress/Elementor websites, including healthcare clinic sites
+- Meta tracking scripts, Meta ad account management, and reporting into Google Sheets and Looker Studio
+- Hosting, DNS, SSL and deployment fixes
+- Meetings with the ClickShare team and client teams
 
 > *"Very reliable, consistent with his communication and follow through. I'd highly recommend hiring Maroof!"*
 >
