@@ -170,10 +170,6 @@ Production web applications for international clients as a Top Rated freelancer.
 
 `JavaScript` `Tailwind CSS` `AWS` `WebRTC`
 
-> *"Maroof did exceptional work building our video calling web app. Outstanding expertise and great team player who delivered quality work on time."*
->
-> — **Linden May**, Upwork Client
-
 <sub>Most production work is maintained in private client/company repositories; selected implementation details and case studies are available through my portfolio. Client names and links are omitted where confidentiality applies.</sub>
 
 ## Open Source
